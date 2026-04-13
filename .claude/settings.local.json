@@ -8,7 +8,9 @@
       "Bash(curl -s https://meridian-lac-sigma.vercel.app/api/generate)",
       "Bash(git add:*)",
       "Bash(git push:*)",
-      "Bash(curl -sv https://meridian-lac-sigma.vercel.app/api/generate)"
+      "Bash(curl -sv https://meridian-lac-sigma.vercel.app/api/generate)",
+      "Bash(curl -s https://meridian-lac-sigma.vercel.app/api/)",
+      "Bash(curl -s -X POST https://meridian-lac-sigma.vercel.app/api/generate -H \"Content-Type: application/json\" -d '{\"\"\"\"account_id\"\"\"\":\"\"\"\"ACC-1171\"\"\"\"}')"
     ]
   }
 }

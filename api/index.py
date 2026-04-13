@@ -10,15 +10,33 @@ import json
 import sys
 import os
 
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory
 
 # Add the brief generator to the path
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "01_account_brief"))
+PROJECT_ROOT = os.path.join(os.path.dirname(__file__), "..")
+PUBLIC_DIR = os.path.join(PROJECT_ROOT, "public")
+
+sys.path.insert(0, os.path.join(PROJECT_ROOT, "01_account_brief"))
 import brief_generator  # noqa: E402
 
 OPEN_STAGES = brief_generator.OPEN_STAGES
 
 app = Flask(__name__)
+
+
+# ---------------------------------------------------------------------------
+# Static file serving — Vercel routes all traffic through Flask
+# ---------------------------------------------------------------------------
+
+@app.route("/")
+def serve_index():
+    return send_from_directory(PUBLIC_DIR, "index.html")
+
+
+@app.route("/<path:filename>")
+def serve_static(filename):
+    """Serve static files from public/, fall back to 404."""
+    return send_from_directory(PUBLIC_DIR, filename)
 
 
 def _classify_accounts(accounts, contacts, deals, calls, emails):
