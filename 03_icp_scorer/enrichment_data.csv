@@ -1,0 +1,301 @@
+target_id,company_name,intent_topic_spike,intent_score_0_100,job_postings_marketing_design,recent_news_headline,exec_change_last_90d,g2_reviews_count,employees_added_last_90d
+TGT-50000,Luma,rebrand,86,7,,Yes,323,21
+TGT-50001,Redshore,rebrand,85,9,,No,309,41
+TGT-50002,Nimbus Analytics,brand strategy,27,1,Nimbus Analytics raises new round to expand product line,No,271,12
+TGT-50003,Kiln Networks,positioning,71,11,Kiln Networks raises new round to expand product line,No,435,29
+TGT-50004,Garnet Labs,positioning,32,8,Garnet Labs launches new enterprise tier,No,22,19
+TGT-50005,Norton Cloud,,31,3,Norton Cloud announces acquisition of regional competitor,No,407,25
+TGT-50006,Covalent Digital,,48,11,Covalent Digital launches new enterprise tier,No,324,2
+TGT-50007,Oakline Platforms,design system,7,2,Oakline Platforms raises new round to expand product line,Yes,343,49
+TGT-50008,Lattice Technologies,brand strategy,54,11,Lattice Technologies launches new enterprise tier,No,212,23
+TGT-50009,Pioneer Group,brand strategy,40,10,,No,243,66
+TGT-50010,Nimbus Software,,38,3,,Yes,255,77
+TGT-50011,Plume Group,,1,11,Plume Group names new Chief Marketing Officer,No,88,67
+TGT-50012,Plume Systems,go-to-market,90,3,Plume Systems launches new enterprise tier,Yes,214,79
+TGT-50013,Nimbus Cloud,,67,7,Nimbus Cloud raises new round to expand product line,No,41,27
+TGT-50014,Cinder Software,go-to-market,62,8,,Yes,323,78
+TGT-50015,Helix Analytics,creative agency,25,11,Helix Analytics raises new round to expand product line,No,85,0
+TGT-50016,Meridian Peak Digital,creative agency,85,5,Meridian Peak Digital launches new enterprise tier,No,138,46
+TGT-50017,Thornbury AI,,77,4,,No,100,-1
+TGT-50018,Norton,creative agency,69,2,Norton launches new enterprise tier,Yes,413,-11
+TGT-50019,Cinder Technologies,go-to-market,83,9,Cinder Technologies launches new enterprise tier,No,69,-11
+TGT-50020,Riverbend Health,,39,0,Riverbend Health launches new enterprise tier,No,366,36
+TGT-50021,Oakline Technologies,positioning,1,12,Oakline Technologies raises new round to expand product line,No,229,22
+TGT-50022,Foxglove Group,design system,49,2,Foxglove Group raises new round to expand product line,No,357,47
+TGT-50023,Pioneer Health,,84,5,Pioneer Health launches new enterprise tier,No,64,25
+TGT-50024,Silverleaf,go-to-market,84,4,Silverleaf names new Chief Marketing Officer,No,287,39
+TGT-50025,Vantage Analytics,design system,58,2,,Yes,310,-8
+TGT-50026,Kiln Group,creative agency,20,2,,No,315,19
+TGT-50027,Monarch Systems,brand strategy,55,10,Monarch Systems raises new round to expand product line,Yes,396,18
+TGT-50028,Willowrun,rebrand,29,8,Willowrun names new Chief Marketing Officer,No,119,56
+TGT-50029,Ember AI,design system,85,8,,Yes,121,63
+TGT-50030,Brightlane Labs,website redesign,25,8,,No,268,34
+TGT-50031,Nimbus AI,website redesign,19,5,,No,216,68
+TGT-50032,Thornbury Group,,94,6,Thornbury Group names new Chief Marketing Officer,No,220,-4
+TGT-50033,Kiln Health,brand strategy,29,5,Kiln Health launches new enterprise tier,No,137,67
+TGT-50034,Ironwood Financial,,6,8,Ironwood Financial announces acquisition of regional competitor,Yes,333,-5
+TGT-50035,Terrace Analytics,positioning,98,9,Terrace Analytics names new Chief Marketing Officer,No,246,14
+TGT-50036,Lattice Platforms,,46,0,,No,26,78
+TGT-50037,Opal Platforms,rebrand,19,6,Opal Platforms launches new enterprise tier,No,437,34
+TGT-50038,Silverleaf Software,,4,9,Silverleaf Software launches new enterprise tier,Yes,309,-11
+TGT-50039,Terrace Digital,,10,0,Terrace Digital raises new round to expand product line,No,220,35
+TGT-50040,Thornbury Health,go-to-market,85,9,Thornbury Health announces acquisition of regional competitor,No,159,77
+TGT-50041,Silverleaf Networks,category creation,4,0,Silverleaf Networks raises new round to expand product line,No,265,19
+TGT-50042,Juniper Financial,design system,16,10,,No,372,23
+TGT-50043,Thornbury Group,,88,2,Thornbury Group raises new round to expand product line,No,161,8
+TGT-50044,Vantage Analytics,website redesign,43,10,,No,259,43
+TGT-50045,Northwind Financial,,25,0,Northwind Financial launches new enterprise tier,No,101,5
+TGT-50046,Solstice Cloud,rebrand,52,6,Solstice Cloud announces acquisition of regional competitor,No,204,57
+TGT-50047,Beacon Cloud,rebrand,5,11,Beacon Cloud launches new enterprise tier,Yes,272,71
+TGT-50048,Juniper Group,,51,12,Juniper Group raises new round to expand product line,No,416,48
+TGT-50049,Parallax Technologies,rebrand,27,10,Parallax Technologies announces acquisition of regional competitor,Yes,75,30
+TGT-50050,Cinder,brand strategy,2,6,Cinder announces acquisition of regional competitor,Yes,234,38
+TGT-50051,Thornbury Technologies,positioning,31,4,,No,390,70
+TGT-50052,Kiln Financial,design system,43,2,Kiln Financial launches new enterprise tier,No,182,-8
+TGT-50053,Terrace Cloud,go-to-market,24,4,Terrace Cloud launches new enterprise tier,No,344,18
+TGT-50054,Cinder Systems,rebrand,10,6,Cinder Systems raises new round to expand product line,Yes,191,74
+TGT-50055,Verdant Systems,,45,3,,No,281,53
+TGT-50056,Riverbend Financial,creative agency,43,5,,No,287,48
+TGT-50057,Meridian Peak Group,go-to-market,72,11,Meridian Peak Group names new Chief Marketing Officer,Yes,370,-7
+TGT-50058,Indigo Health,,44,5,Indigo Health names new Chief Marketing Officer,No,271,79
+TGT-50059,Harbor Labs,website redesign,97,3,Harbor Labs raises new round to expand product line,No,50,36
+TGT-50060,Brightlane Networks,positioning,93,3,Brightlane Networks raises new round to expand product line,No,126,65
+TGT-50061,Foxglove Financial,website redesign,77,7,Foxglove Financial launches new enterprise tier,No,150,67
+TGT-50062,Quill Software,positioning,29,3,,No,303,74
+TGT-50063,Quest Labs,positioning,44,10,Quest Labs launches new enterprise tier,No,255,73
+TGT-50064,Norton Digital,,93,4,,Yes,438,45
+TGT-50065,Ironwood Financial,creative agency,16,4,,No,201,77
+TGT-50066,Solstice Systems,positioning,79,7,Solstice Systems names new Chief Marketing Officer,No,404,79
+TGT-50067,Axiom Financial,,27,10,Axiom Financial announces acquisition of regional competitor,Yes,407,-14
+TGT-50068,Drift AI,design system,57,10,,No,11,-11
+TGT-50069,Ember Cloud,,73,7,,No,88,63
+TGT-50070,Monarch Networks,,21,9,,Yes,194,66
+TGT-50071,Kiln Platforms,positioning,16,1,Kiln Platforms names new Chief Marketing Officer,No,216,30
+TGT-50072,Upland Software,,44,9,Upland Software launches new enterprise tier,No,25,8
+TGT-50073,Pioneer Health,positioning,66,9,Pioneer Health raises new round to expand product line,Yes,329,31
+TGT-50074,Norton,creative agency,72,9,,Yes,392,52
+TGT-50075,Brightlane Health,positioning,29,4,,No,193,29
+TGT-50076,Solstice,rebrand,83,2,Solstice names new Chief Marketing Officer,No,135,20
+TGT-50077,Redshore,brand strategy,91,7,,Yes,395,-13
+TGT-50078,Lattice Financial,design system,83,3,Lattice Financial raises new round to expand product line,No,122,60
+TGT-50079,Drift Labs,go-to-market,78,10,Drift Labs announces acquisition of regional competitor,Yes,230,54
+TGT-50080,Redshore Financial,,34,5,,Yes,241,11
+TGT-50081,Oakline Platforms,rebrand,19,8,Oakline Platforms names new Chief Marketing Officer,Yes,51,-6
+TGT-50082,Thornbury Software,website redesign,50,4,,Yes,337,50
+TGT-50083,Covalent Platforms,rebrand,40,4,Covalent Platforms announces acquisition of regional competitor,No,283,49
+TGT-50084,Redshore Labs,,27,12,Redshore Labs launches new enterprise tier,No,233,-9
+TGT-50085,Ironwood Cloud,creative agency,7,5,Ironwood Cloud raises new round to expand product line,No,318,32
+TGT-50086,Kestrel,,92,0,,No,66,34
+TGT-50087,Thornbury,,27,2,Thornbury launches new enterprise tier,No,130,76
+TGT-50088,Beacon Group,,97,3,Beacon Group names new Chief Marketing Officer,No,231,4
+TGT-50089,Opal Analytics,brand strategy,98,7,,No,130,79
+TGT-50090,Valence Software,creative agency,5,7,,No,405,80
+TGT-50091,Cinder Analytics,,30,7,,No,255,48
+TGT-50092,Quill,,42,2,,No,97,64
+TGT-50093,Riverbend Networks,,79,6,Riverbend Networks names new Chief Marketing Officer,No,412,-2
+TGT-50094,Verdant Health,,38,5,Verdant Health announces acquisition of regional competitor,No,443,71
+TGT-50095,Beacon Labs,,69,10,Beacon Labs names new Chief Marketing Officer,No,185,42
+TGT-50096,Garnet Digital,,19,8,Garnet Digital names new Chief Marketing Officer,No,75,80
+TGT-50097,Helix,,2,1,Helix launches new enterprise tier,No,180,-2
+TGT-50098,Lattice Financial,go-to-market,77,11,,No,246,21
+TGT-50099,Solstice Systems,creative agency,69,11,Solstice Systems launches new enterprise tier,No,184,67
+TGT-50100,Norton Financial,go-to-market,94,3,Norton Financial names new Chief Marketing Officer,No,36,67
+TGT-50101,Helix Cloud,creative agency,73,12,Helix Cloud names new Chief Marketing Officer,Yes,340,12
+TGT-50102,Umbra Group,,38,7,Umbra Group announces acquisition of regional competitor,No,450,-7
+TGT-50103,Vantage Platforms,,54,11,Vantage Platforms raises new round to expand product line,No,194,31
+TGT-50104,Umbra Cloud,,6,2,Umbra Cloud raises new round to expand product line,No,410,-13
+TGT-50105,Willowrun AI,brand strategy,21,7,,No,339,63
+TGT-50106,Nimbus Logistics,,45,8,,No,444,44
+TGT-50107,Kiln Analytics,brand strategy,98,0,Kiln Analytics announces acquisition of regional competitor,Yes,64,26
+TGT-50108,Vantage Health,category creation,65,10,Vantage Health raises new round to expand product line,No,402,38
+TGT-50109,Silverleaf Networks,category creation,12,9,,Yes,110,48
+TGT-50110,Harbor Logistics,design system,76,3,Harbor Logistics names new Chief Marketing Officer,No,239,66
+TGT-50111,Riverbend AI,,87,2,,No,254,21
+TGT-50112,Upland Platforms,,49,12,Upland Platforms names new Chief Marketing Officer,Yes,263,71
+TGT-50113,Quest Group,,60,5,Quest Group names new Chief Marketing Officer,Yes,382,29
+TGT-50114,Silverleaf AI,website redesign,85,4,Silverleaf AI names new Chief Marketing Officer,No,68,69
+TGT-50115,Juniper AI,brand strategy,56,5,Juniper AI launches new enterprise tier,No,375,-3
+TGT-50116,Garnet Analytics,positioning,83,4,Garnet Analytics announces acquisition of regional competitor,No,137,-1
+TGT-50117,Helix Digital,,90,9,Helix Digital launches new enterprise tier,No,161,71
+TGT-50118,Solstice Logistics,,97,12,,No,324,18
+TGT-50119,Solstice Health,,25,8,Solstice Health announces acquisition of regional competitor,Yes,294,76
+TGT-50120,Drift Logistics,website redesign,98,7,Drift Logistics launches new enterprise tier,No,38,30
+TGT-50121,Kiln Financial,creative agency,29,10,,No,169,-15
+TGT-50122,Flint Technologies,,56,0,Flint Technologies announces acquisition of regional competitor,No,277,4
+TGT-50123,Opal Cloud,go-to-market,11,10,Opal Cloud raises new round to expand product line,No,98,-4
+TGT-50124,Indigo Financial,,68,6,Indigo Financial launches new enterprise tier,Yes,9,46
+TGT-50125,Terrace,go-to-market,74,1,Terrace announces acquisition of regional competitor,No,379,32
+TGT-50126,Luma Networks,design system,54,1,,No,206,78
+TGT-50127,Valence Software,creative agency,87,6,Valence Software raises new round to expand product line,No,368,27
+TGT-50128,Umbra Financial,brand strategy,91,4,Umbra Financial names new Chief Marketing Officer,No,0,-5
+TGT-50129,Luma Financial,brand strategy,23,6,,No,232,33
+TGT-50130,Flint Networks,positioning,59,5,Flint Networks launches new enterprise tier,No,433,35
+TGT-50131,Parallax Logistics,go-to-market,95,7,Parallax Logistics names new Chief Marketing Officer,No,301,67
+TGT-50132,Solstice Logistics,creative agency,61,4,Solstice Logistics raises new round to expand product line,No,172,-15
+TGT-50133,Plume AI,design system,66,5,,Yes,385,77
+TGT-50134,Beacon Digital,website redesign,30,3,Beacon Digital raises new round to expand product line,No,152,39
+TGT-50135,Cinder Systems,website redesign,15,4,,No,11,38
+TGT-50136,Vantage Logistics,rebrand,48,5,Vantage Logistics names new Chief Marketing Officer,No,236,13
+TGT-50137,Oakline AI,brand strategy,41,3,Oakline AI announces acquisition of regional competitor,Yes,305,-15
+TGT-50138,Terrace Analytics,creative agency,90,8,Terrace Analytics raises new round to expand product line,No,426,38
+TGT-50139,Riverbend Technologies,website redesign,74,3,Riverbend Technologies raises new round to expand product line,No,411,68
+TGT-50140,Drift Software,design system,14,5,Drift Software raises new round to expand product line,No,439,-9
+TGT-50141,Silverleaf Systems,design system,50,1,Silverleaf Systems launches new enterprise tier,No,112,40
+TGT-50142,Redshore Technologies,creative agency,7,5,,Yes,60,0
+TGT-50143,Verdant Technologies,creative agency,84,9,,No,240,41
+TGT-50144,Opal Financial,,55,10,Opal Financial names new Chief Marketing Officer,Yes,294,21
+TGT-50145,Kestrel Analytics,design system,56,0,,No,198,71
+TGT-50146,Garnet Software,brand strategy,70,7,Garnet Software announces acquisition of regional competitor,No,423,-7
+TGT-50147,Ironwood Financial,website redesign,19,9,,Yes,262,70
+TGT-50148,Foxglove Financial,creative agency,69,8,Foxglove Financial announces acquisition of regional competitor,No,231,57
+TGT-50149,Ironwood Health,,65,8,Ironwood Health names new Chief Marketing Officer,No,110,43
+TGT-50150,Oakline Logistics,go-to-market,79,6,,No,275,72
+TGT-50151,Monarch Labs,design system,22,7,Monarch Labs announces acquisition of regional competitor,No,95,74
+TGT-50152,Valence AI,category creation,1,12,Valence AI raises new round to expand product line,No,225,-7
+TGT-50153,Flint Software,go-to-market,32,7,Flint Software announces acquisition of regional competitor,No,181,-13
+TGT-50154,Harbor Software,rebrand,24,12,Harbor Software names new Chief Marketing Officer,No,439,4
+TGT-50155,Plume Cloud,,11,1,Plume Cloud announces acquisition of regional competitor,No,391,78
+TGT-50156,Cinder Digital,,8,4,Cinder Digital raises new round to expand product line,No,273,8
+TGT-50157,Terrace Systems,positioning,96,6,Terrace Systems announces acquisition of regional competitor,No,328,0
+TGT-50158,Pioneer Health,,30,7,Pioneer Health raises new round to expand product line,No,166,-8
+TGT-50159,Verdant Software,,35,10,,Yes,414,12
+TGT-50160,Riverbend Health,,13,5,,No,120,45
+TGT-50161,Covalent Software,,10,12,Covalent Software names new Chief Marketing Officer,Yes,334,63
+TGT-50162,Drift AI,rebrand,46,1,,No,363,15
+TGT-50163,Kestrel Cloud,design system,74,12,Kestrel Cloud raises new round to expand product line,Yes,225,61
+TGT-50164,Verdant Logistics,brand strategy,38,6,,No,306,18
+TGT-50165,Covalent AI,brand strategy,98,5,,No,33,27
+TGT-50166,Pioneer Systems,rebrand,77,12,Pioneer Systems names new Chief Marketing Officer,No,79,48
+TGT-50167,Terrace Systems,,72,1,,No,37,64
+TGT-50168,Luma Analytics,,20,6,,No,10,64
+TGT-50169,Terrace Platforms,,54,10,Terrace Platforms raises new round to expand product line,No,423,51
+TGT-50170,Ember Software,rebrand,37,4,Ember Software raises new round to expand product line,No,327,39
+TGT-50171,Garnet Labs,design system,12,1,Garnet Labs launches new enterprise tier,No,350,4
+TGT-50172,Garnet Financial,,35,2,Garnet Financial raises new round to expand product line,No,443,45
+TGT-50173,Willowrun Financial,brand strategy,71,0,Willowrun Financial announces acquisition of regional competitor,No,380,29
+TGT-50174,Harbor Cloud,,19,4,,Yes,319,67
+TGT-50175,Solstice Analytics,creative agency,62,11,,No,359,26
+TGT-50176,Indigo Networks,creative agency,22,4,Indigo Networks raises new round to expand product line,Yes,30,10
+TGT-50177,Helix Technologies,rebrand,46,1,,No,442,37
+TGT-50178,Parallax Health,rebrand,57,5,,No,222,7
+TGT-50179,Ember Financial,website redesign,87,4,,No,239,38
+TGT-50180,Drift Platforms,positioning,82,1,,No,431,29
+TGT-50181,Brightlane Financial,,27,2,Brightlane Financial announces acquisition of regional competitor,Yes,293,-11
+TGT-50182,Willowrun Technologies,rebrand,1,2,Willowrun Technologies launches new enterprise tier,Yes,134,64
+TGT-50183,Ember Digital,website redesign,18,7,Ember Digital launches new enterprise tier,No,242,-8
+TGT-50184,Drift Analytics,,41,9,Drift Analytics announces acquisition of regional competitor,No,84,39
+TGT-50185,Redshore,,22,3,,No,184,79
+TGT-50186,Axiom Group,go-to-market,33,3,,No,275,8
+TGT-50187,Valence Systems,rebrand,30,8,,Yes,61,25
+TGT-50188,Juniper Group,,43,7,Juniper Group launches new enterprise tier,No,398,-3
+TGT-50189,Harbor Labs,,47,1,Harbor Labs names new Chief Marketing Officer,No,390,31
+TGT-50190,Thornbury Networks,go-to-market,31,2,Thornbury Networks names new Chief Marketing Officer,No,7,49
+TGT-50191,Umbra Networks,category creation,78,7,Umbra Networks names new Chief Marketing Officer,Yes,163,6
+TGT-50192,Redshore Group,go-to-market,19,10,,Yes,142,15
+TGT-50193,Northwind Group,positioning,89,2,Northwind Group raises new round to expand product line,No,291,29
+TGT-50194,Riverbend Labs,creative agency,73,6,Riverbend Labs announces acquisition of regional competitor,No,84,55
+TGT-50195,Lattice Networks,brand strategy,62,3,Lattice Networks names new Chief Marketing Officer,No,6,38
+TGT-50196,Axiom Health,positioning,88,5,Axiom Health announces acquisition of regional competitor,No,22,24
+TGT-50197,Valence Analytics,,21,9,Valence Analytics announces acquisition of regional competitor,Yes,439,71
+TGT-50198,Redshore Cloud,,20,8,Redshore Cloud launches new enterprise tier,Yes,376,29
+TGT-50199,Beacon Technologies,,56,11,Beacon Technologies names new Chief Marketing Officer,No,444,78
+TGT-50200,Ironwood Logistics,creative agency,2,12,Ironwood Logistics launches new enterprise tier,No,80,65
+TGT-50201,Kestrel Software,,46,8,Kestrel Software launches new enterprise tier,No,194,-13
+TGT-50202,Lattice Logistics,,7,5,Lattice Logistics announces acquisition of regional competitor,No,423,71
+TGT-50203,Lattice AI,website redesign,53,2,Lattice AI names new Chief Marketing Officer,No,340,-5
+TGT-50204,Verdant,design system,58,5,Verdant raises new round to expand product line,Yes,189,10
+TGT-50205,Quill Analytics,website redesign,81,7,,Yes,397,12
+TGT-50206,Flint Logistics,positioning,98,1,Flint Logistics announces acquisition of regional competitor,No,227,46
+TGT-50207,Upland Labs,go-to-market,96,6,,No,356,71
+TGT-50208,Plume Cloud,design system,27,11,Plume Cloud launches new enterprise tier,Yes,225,60
+TGT-50209,Parallax Analytics,,68,7,Parallax Analytics raises new round to expand product line,No,441,73
+TGT-50210,Umbra Analytics,go-to-market,31,8,Umbra Analytics names new Chief Marketing Officer,No,298,55
+TGT-50211,Silverleaf,rebrand,22,11,Silverleaf names new Chief Marketing Officer,No,397,13
+TGT-50212,Garnet Technologies,,78,6,Garnet Technologies announces acquisition of regional competitor,No,382,31
+TGT-50213,Solstice Cloud,category creation,97,10,Solstice Cloud launches new enterprise tier,No,199,19
+TGT-50214,Verdant Platforms,positioning,42,1,Verdant Platforms names new Chief Marketing Officer,No,196,4
+TGT-50215,Drift Labs,website redesign,19,0,,No,336,11
+TGT-50216,Opal Labs,positioning,98,6,Opal Labs announces acquisition of regional competitor,No,409,1
+TGT-50217,Luma Software,,72,10,,No,107,51
+TGT-50218,Kestrel Digital,brand strategy,57,1,,No,192,-10
+TGT-50219,Foxglove Digital,design system,72,9,,Yes,306,18
+TGT-50220,Plume Financial,go-to-market,9,0,Plume Financial launches new enterprise tier,No,270,10
+TGT-50221,Drift Labs,,92,2,,Yes,195,3
+TGT-50222,Vantage Cloud,,66,11,Vantage Cloud launches new enterprise tier,Yes,355,8
+TGT-50223,Juniper Digital,creative agency,64,5,,No,408,-2
+TGT-50224,Thornbury Software,brand strategy,31,6,,Yes,6,31
+TGT-50225,Willowrun Group,design system,76,5,,No,386,38
+TGT-50226,Drift,website redesign,40,10,Drift raises new round to expand product line,No,196,63
+TGT-50227,Garnet Health,positioning,9,2,Garnet Health names new Chief Marketing Officer,No,280,52
+TGT-50228,Willowrun Cloud,,78,9,,No,0,71
+TGT-50229,Lattice,,65,12,,No,390,-12
+TGT-50230,Norton Software,,8,1,Norton Software raises new round to expand product line,No,144,61
+TGT-50231,Kiln Networks,website redesign,26,11,Kiln Networks launches new enterprise tier,Yes,399,37
+TGT-50232,Kiln Logistics,,3,8,,No,285,69
+TGT-50233,Axiom,,36,4,Axiom announces acquisition of regional competitor,Yes,426,47
+TGT-50234,Indigo Cloud,website redesign,99,1,Indigo Cloud names new Chief Marketing Officer,Yes,439,76
+TGT-50235,Axiom Technologies,creative agency,63,6,Axiom Technologies names new Chief Marketing Officer,No,400,13
+TGT-50236,Parallax Health,rebrand,91,9,Parallax Health raises new round to expand product line,No,258,-8
+TGT-50237,Drift Group,positioning,29,8,Drift Group announces acquisition of regional competitor,No,23,60
+TGT-50238,Norton Labs,creative agency,72,7,Norton Labs announces acquisition of regional competitor,No,192,50
+TGT-50239,Meridian Peak Systems,positioning,22,1,,Yes,388,-11
+TGT-50240,Quill Networks,rebrand,67,11,Quill Networks launches new enterprise tier,No,85,61
+TGT-50241,Plume Health,rebrand,91,11,Plume Health names new Chief Marketing Officer,Yes,81,34
+TGT-50242,Pioneer Networks,go-to-market,79,11,Pioneer Networks launches new enterprise tier,No,3,12
+TGT-50243,Garnet Analytics,brand strategy,16,10,Garnet Analytics names new Chief Marketing Officer,Yes,36,47
+TGT-50244,Monarch Financial,,14,7,Monarch Financial raises new round to expand product line,No,360,16
+TGT-50245,Cinder Logistics,website redesign,63,5,,No,47,-5
+TGT-50246,Upland Networks,,40,9,Upland Networks names new Chief Marketing Officer,Yes,111,-12
+TGT-50247,Verdant Analytics,positioning,14,6,Verdant Analytics announces acquisition of regional competitor,Yes,232,6
+TGT-50248,Covalent Platforms,design system,11,8,,Yes,294,29
+TGT-50249,Valence Financial,category creation,12,0,Valence Financial raises new round to expand product line,No,422,-7
+TGT-50250,Juniper Health,creative agency,77,10,Juniper Health names new Chief Marketing Officer,No,32,13
+TGT-50251,Quest Platforms,design system,81,2,Quest Platforms names new Chief Marketing Officer,Yes,333,-13
+TGT-50252,Riverbend Logistics,rebrand,27,10,Riverbend Logistics launches new enterprise tier,No,90,-12
+TGT-50253,Opal Software,,83,8,Opal Software raises new round to expand product line,No,159,-15
+TGT-50254,Foxglove Logistics,rebrand,96,4,Foxglove Logistics launches new enterprise tier,No,42,75
+TGT-50255,Ironwood Digital,category creation,51,0,Ironwood Digital launches new enterprise tier,No,251,5
+TGT-50256,Kestrel Group,brand strategy,80,11,Kestrel Group announces acquisition of regional competitor,No,356,76
+TGT-50257,Umbra,,70,0,Umbra launches new enterprise tier,No,104,73
+TGT-50258,Pioneer Technologies,,44,3,Pioneer Technologies names new Chief Marketing Officer,No,185,-12
+TGT-50259,Opal Cloud,rebrand,51,11,Opal Cloud names new Chief Marketing Officer,No,166,-7
+TGT-50260,Riverbend Logistics,brand strategy,39,9,Riverbend Logistics announces acquisition of regional competitor,No,61,47
+TGT-50261,Juniper Health,category creation,4,5,,Yes,373,28
+TGT-50262,Pioneer Health,rebrand,26,3,,Yes,302,35
+TGT-50263,Upland Software,creative agency,25,0,,No,423,4
+TGT-50264,Oakline Logistics,positioning,0,7,Oakline Logistics announces acquisition of regional competitor,Yes,431,10
+TGT-50265,Meridian Peak Analytics,go-to-market,72,10,,No,172,15
+TGT-50266,Plume Technologies,category creation,72,0,Plume Technologies names new Chief Marketing Officer,No,115,69
+TGT-50267,Opal Software,,46,7,Opal Software announces acquisition of regional competitor,Yes,309,-3
+TGT-50268,Monarch Cloud,,40,8,Monarch Cloud raises new round to expand product line,No,14,55
+TGT-50269,Riverbend Health,positioning,13,6,Riverbend Health names new Chief Marketing Officer,No,249,31
+TGT-50270,Harbor Software,brand strategy,11,11,Harbor Software announces acquisition of regional competitor,No,123,67
+TGT-50271,Flint,rebrand,34,6,Flint announces acquisition of regional competitor,Yes,425,-13
+TGT-50272,Monarch Labs,category creation,73,4,,No,189,31
+TGT-50273,Kestrel Logistics,,91,10,,No,148,34
+TGT-50274,Oakline Health,positioning,82,2,Oakline Health raises new round to expand product line,Yes,54,67
+TGT-50275,Silverleaf Group,,2,2,Silverleaf Group names new Chief Marketing Officer,Yes,48,33
+TGT-50276,Plume Networks,go-to-market,13,9,,No,309,-15
+TGT-50277,Kiln Health,design system,95,0,,Yes,249,29
+TGT-50278,Valence Analytics,brand strategy,58,5,Valence Analytics raises new round to expand product line,No,380,59
+TGT-50279,Flint Software,website redesign,49,7,Flint Software launches new enterprise tier,No,410,-13
+TGT-50280,Helix Financial,positioning,51,1,Helix Financial launches new enterprise tier,No,338,3
+TGT-50281,Quest Logistics,,81,8,,No,100,78
+TGT-50282,Kestrel Digital,,86,6,Kestrel Digital announces acquisition of regional competitor,No,450,80
+TGT-50283,Norton,,71,12,,No,84,-14
+TGT-50284,Ember Networks,website redesign,0,4,,No,41,-12
+TGT-50285,Willowrun Logistics,category creation,49,12,,No,145,47
+TGT-50286,Umbra Financial,design system,96,4,Umbra Financial raises new round to expand product line,No,402,3
+TGT-50287,Northwind Software,creative agency,14,10,,No,151,28
+TGT-50288,Upland Analytics,category creation,8,4,Upland Analytics announces acquisition of regional competitor,No,181,-14
+TGT-50289,Lattice Health,,6,0,Lattice Health names new Chief Marketing Officer,No,9,39
+TGT-50290,Covalent Financial,,44,4,Covalent Financial launches new enterprise tier,Yes,161,39
+TGT-50291,Thornbury AI,positioning,17,12,Thornbury AI launches new enterprise tier,No,303,17
+TGT-50292,Luma Networks,category creation,52,10,Luma Networks raises new round to expand product line,Yes,401,63
+TGT-50293,Flint Health,brand strategy,72,8,Flint Health names new Chief Marketing Officer,No,29,67
+TGT-50294,Pioneer Platforms,,14,4,,No,152,41
+TGT-50295,Helix Cloud,brand strategy,19,3,Helix Cloud launches new enterprise tier,Yes,151,-1
+TGT-50296,Drift,creative agency,7,12,Drift launches new enterprise tier,Yes,88,31
+TGT-50297,Kestrel Software,website redesign,42,5,Kestrel Software names new Chief Marketing Officer,No,41,9
+TGT-50298,Cinder Cloud,positioning,95,1,Cinder Cloud launches new enterprise tier,No,95,54
+TGT-50299,Upland Group,brand strategy,73,5,Upland Group announces acquisition of regional competitor,No,251,32

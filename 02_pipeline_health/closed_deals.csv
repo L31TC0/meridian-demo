@@ -1,0 +1,121 @@
+deal_id,rep_id,rep_name,segment,amount_usd,outcome,cycle_length_days,close_date,loss_reason,industry
+CLOSED-40000,REP-102,Priya Raman,PE-Backed,400000,Won,72,2025-10-21,,Dev Tools
+CLOSED-40001,REP-105,Dmitri Lazarev,PE-Backed,120000,Lost,136,2025-08-17,Internal resource,Data & Analytics
+CLOSED-40002,REP-102,Priya Raman,PE-Backed,240000,Lost,97,2025-12-10,Unresponsive,Logistics
+CLOSED-40003,REP-102,Priya Raman,PE-Backed,120000,Won,75,2025-10-16,,Logistics
+CLOSED-40004,REP-103,Samuel Okafor,Mid-Market Tech,120000,Lost,139,2025-10-31,No decision,PropTech
+CLOSED-40005,REP-102,Priya Raman,PE-Backed,320000,Lost,62,2025-11-08,No decision,Insurance Tech
+CLOSED-40006,REP-102,Priya Raman,PE-Backed,180000,Won,50,2026-04-02,,B2B SaaS
+CLOSED-40007,REP-102,Priya Raman,PE-Backed,240000,Lost,91,2025-10-01,Timing,FinTech
+CLOSED-40008,REP-104,Clara Voss,Mid-Market Tech,400000,Won,115,2026-02-07,,Data & Analytics
+CLOSED-40009,REP-106,Naomi Fielding,SMB Tech,320000,Lost,120,2025-09-23,No decision,Insurance Tech
+CLOSED-40010,REP-105,Dmitri Lazarev,PE-Backed,240000,Won,43,2026-01-10,,Cybersecurity
+CLOSED-40011,REP-107,Jordan Ellis,Mid-Market Tech,75000,Won,80,2026-02-25,,B2B SaaS
+CLOSED-40012,REP-103,Samuel Okafor,Mid-Market Tech,240000,Won,63,2026-04-05,,Dev Tools
+CLOSED-40013,REP-105,Dmitri Lazarev,PE-Backed,320000,Won,61,2025-09-09,,PropTech
+CLOSED-40014,REP-107,Jordan Ellis,Mid-Market Tech,120000,Lost,48,2026-03-10,Internal resource,HR Tech
+CLOSED-40015,REP-103,Samuel Okafor,Mid-Market Tech,180000,Lost,45,2025-10-05,Went with competitor,Legal Tech
+CLOSED-40016,REP-105,Dmitri Lazarev,PE-Backed,120000,Won,122,2025-10-18,,HR Tech
+CLOSED-40017,REP-105,Dmitri Lazarev,PE-Backed,400000,Lost,38,2025-11-29,Timing,MarTech
+CLOSED-40018,REP-100,Ava Morgenstern,SMB Tech,75000,Won,95,2026-03-05,,HealthTech
+CLOSED-40019,REP-100,Ava Morgenstern,SMB Tech,400000,Lost,96,2026-03-22,Unresponsive,HealthTech
+CLOSED-40020,REP-101,Theo Blackwood,PE-Backed,180000,Lost,79,2026-02-25,Timing,E-commerce Platform
+CLOSED-40021,REP-105,Dmitri Lazarev,PE-Backed,75000,Lost,51,2026-02-11,Timing,FinTech
+CLOSED-40022,REP-105,Dmitri Lazarev,PE-Backed,320000,Lost,101,2025-10-10,No decision,Cybersecurity
+CLOSED-40023,REP-101,Theo Blackwood,PE-Backed,240000,Lost,136,2025-11-05,Budget,PropTech
+CLOSED-40024,REP-102,Priya Raman,PE-Backed,320000,Won,102,2025-11-26,,B2B SaaS
+CLOSED-40025,REP-106,Naomi Fielding,SMB Tech,320000,Lost,71,2026-03-26,No decision,Cybersecurity
+CLOSED-40026,REP-100,Ava Morgenstern,SMB Tech,400000,Won,70,2026-03-12,,PropTech
+CLOSED-40027,REP-100,Ava Morgenstern,SMB Tech,320000,Won,115,2025-11-24,,MarTech
+CLOSED-40028,REP-107,Jordan Ellis,Mid-Market Tech,320000,Lost,124,2025-09-24,No decision,Cybersecurity
+CLOSED-40029,REP-105,Dmitri Lazarev,PE-Backed,180000,Lost,35,2025-11-13,Went with competitor,E-commerce Platform
+CLOSED-40030,REP-101,Theo Blackwood,PE-Backed,75000,Won,72,2025-11-05,,EdTech
+CLOSED-40031,REP-107,Jordan Ellis,Mid-Market Tech,120000,Won,85,2025-12-28,,E-commerce Platform
+CLOSED-40032,REP-104,Clara Voss,Mid-Market Tech,120000,Lost,92,2026-02-26,Internal resource,MarTech
+CLOSED-40033,REP-105,Dmitri Lazarev,PE-Backed,75000,Won,71,2025-09-28,,Data & Analytics
+CLOSED-40034,REP-102,Priya Raman,PE-Backed,120000,Won,118,2025-11-22,,Logistics
+CLOSED-40035,REP-105,Dmitri Lazarev,PE-Backed,400000,Lost,123,2026-02-05,No decision,HealthTech
+CLOSED-40036,REP-101,Theo Blackwood,PE-Backed,240000,Lost,68,2025-10-25,Timing,Logistics
+CLOSED-40037,REP-103,Samuel Okafor,Mid-Market Tech,180000,Lost,48,2025-12-25,Unresponsive,Data & Analytics
+CLOSED-40038,REP-106,Naomi Fielding,SMB Tech,75000,Lost,91,2025-11-21,Lost to in-house team,Legal Tech
+CLOSED-40039,REP-106,Naomi Fielding,SMB Tech,400000,Lost,124,2025-08-26,Unresponsive,Cybersecurity
+CLOSED-40040,REP-105,Dmitri Lazarev,PE-Backed,320000,Lost,44,2025-10-02,Budget,B2B SaaS
+CLOSED-40041,REP-106,Naomi Fielding,SMB Tech,240000,Lost,93,2025-10-30,Timing,MarTech
+CLOSED-40042,REP-104,Clara Voss,Mid-Market Tech,320000,Lost,92,2025-11-04,Timing,Dev Tools
+CLOSED-40043,REP-107,Jordan Ellis,Mid-Market Tech,180000,Lost,62,2025-12-17,No decision,B2B SaaS
+CLOSED-40044,REP-101,Theo Blackwood,PE-Backed,180000,Lost,108,2026-02-17,Unresponsive,FinTech
+CLOSED-40045,REP-106,Naomi Fielding,SMB Tech,180000,Lost,121,2025-10-23,Internal resource,Legal Tech
+CLOSED-40046,REP-102,Priya Raman,PE-Backed,180000,Lost,66,2025-08-16,No decision,Legal Tech
+CLOSED-40047,REP-100,Ava Morgenstern,SMB Tech,75000,Won,72,2026-04-02,,HR Tech
+CLOSED-40048,REP-103,Samuel Okafor,Mid-Market Tech,75000,Lost,137,2025-12-03,Unresponsive,HR Tech
+CLOSED-40049,REP-105,Dmitri Lazarev,PE-Backed,320000,Lost,57,2025-12-23,Lost to in-house team,E-commerce Platform
+CLOSED-40050,REP-102,Priya Raman,PE-Backed,120000,Lost,120,2025-10-09,Timing,HR Tech
+CLOSED-40051,REP-103,Samuel Okafor,Mid-Market Tech,240000,Lost,50,2026-03-07,Went with competitor,MarTech
+CLOSED-40052,REP-107,Jordan Ellis,Mid-Market Tech,75000,Lost,54,2025-09-06,Timing,B2B SaaS
+CLOSED-40053,REP-100,Ava Morgenstern,SMB Tech,180000,Lost,93,2025-10-26,Internal resource,EdTech
+CLOSED-40054,REP-105,Dmitri Lazarev,PE-Backed,75000,Lost,82,2026-02-12,Timing,Data & Analytics
+CLOSED-40055,REP-104,Clara Voss,Mid-Market Tech,240000,Won,83,2026-04-07,,B2B SaaS
+CLOSED-40056,REP-100,Ava Morgenstern,SMB Tech,180000,Lost,97,2025-09-17,Internal resource,PropTech
+CLOSED-40057,REP-106,Naomi Fielding,SMB Tech,75000,Lost,124,2026-02-19,Budget,PropTech
+CLOSED-40058,REP-104,Clara Voss,Mid-Market Tech,120000,Won,140,2025-10-31,,MarTech
+CLOSED-40059,REP-105,Dmitri Lazarev,PE-Backed,120000,Lost,110,2025-12-02,Went with competitor,MarTech
+CLOSED-40060,REP-104,Clara Voss,Mid-Market Tech,400000,Lost,112,2025-09-05,No decision,EdTech
+CLOSED-40061,REP-107,Jordan Ellis,Mid-Market Tech,75000,Lost,129,2025-12-06,Unresponsive,B2B SaaS
+CLOSED-40062,REP-106,Naomi Fielding,SMB Tech,240000,Won,69,2026-01-06,,FinTech
+CLOSED-40063,REP-104,Clara Voss,Mid-Market Tech,120000,Lost,91,2026-04-04,Budget,Insurance Tech
+CLOSED-40064,REP-104,Clara Voss,Mid-Market Tech,75000,Lost,128,2025-09-02,Lost to in-house team,HR Tech
+CLOSED-40065,REP-104,Clara Voss,Mid-Market Tech,180000,Lost,60,2026-01-03,Internal resource,HR Tech
+CLOSED-40066,REP-101,Theo Blackwood,PE-Backed,400000,Lost,140,2025-09-08,No decision,PropTech
+CLOSED-40067,REP-107,Jordan Ellis,Mid-Market Tech,75000,Lost,80,2025-08-27,No decision,Data & Analytics
+CLOSED-40068,REP-107,Jordan Ellis,Mid-Market Tech,75000,Lost,129,2026-01-19,Went with competitor,Cybersecurity
+CLOSED-40069,REP-106,Naomi Fielding,SMB Tech,320000,Lost,54,2026-01-28,Unresponsive,Legal Tech
+CLOSED-40070,REP-107,Jordan Ellis,Mid-Market Tech,180000,Won,56,2025-12-08,,Legal Tech
+CLOSED-40071,REP-105,Dmitri Lazarev,PE-Backed,400000,Lost,43,2026-02-07,Budget,Data & Analytics
+CLOSED-40072,REP-107,Jordan Ellis,Mid-Market Tech,120000,Won,125,2026-02-05,,Dev Tools
+CLOSED-40073,REP-102,Priya Raman,PE-Backed,120000,Won,52,2026-02-19,,Data & Analytics
+CLOSED-40074,REP-103,Samuel Okafor,Mid-Market Tech,320000,Lost,137,2025-11-29,Unresponsive,EdTech
+CLOSED-40075,REP-102,Priya Raman,PE-Backed,320000,Won,135,2026-04-06,,B2B SaaS
+CLOSED-40076,REP-107,Jordan Ellis,Mid-Market Tech,75000,Lost,62,2025-09-04,Timing,Dev Tools
+CLOSED-40077,REP-100,Ava Morgenstern,SMB Tech,180000,Won,100,2026-02-05,,Insurance Tech
+CLOSED-40078,REP-105,Dmitri Lazarev,PE-Backed,240000,Lost,44,2026-01-09,Unresponsive,EdTech
+CLOSED-40079,REP-104,Clara Voss,Mid-Market Tech,240000,Won,118,2025-10-16,,MarTech
+CLOSED-40080,REP-106,Naomi Fielding,SMB Tech,180000,Won,88,2025-11-23,,E-commerce Platform
+CLOSED-40081,REP-103,Samuel Okafor,Mid-Market Tech,75000,Lost,86,2025-10-19,Unresponsive,Data & Analytics
+CLOSED-40082,REP-104,Clara Voss,Mid-Market Tech,400000,Lost,86,2025-12-08,Unresponsive,EdTech
+CLOSED-40083,REP-107,Jordan Ellis,Mid-Market Tech,240000,Lost,82,2025-09-15,No decision,Data & Analytics
+CLOSED-40084,REP-106,Naomi Fielding,SMB Tech,180000,Lost,96,2026-01-02,Budget,Legal Tech
+CLOSED-40085,REP-105,Dmitri Lazarev,PE-Backed,320000,Won,120,2025-10-06,,Cybersecurity
+CLOSED-40086,REP-102,Priya Raman,PE-Backed,180000,Lost,77,2025-08-30,Went with competitor,HealthTech
+CLOSED-40087,REP-101,Theo Blackwood,PE-Backed,75000,Lost,71,2025-11-17,Internal resource,Legal Tech
+CLOSED-40088,REP-107,Jordan Ellis,Mid-Market Tech,320000,Lost,106,2025-12-05,No decision,HealthTech
+CLOSED-40089,REP-107,Jordan Ellis,Mid-Market Tech,400000,Lost,70,2026-03-07,Timing,B2B SaaS
+CLOSED-40090,REP-106,Naomi Fielding,SMB Tech,400000,Won,105,2026-01-10,,Data & Analytics
+CLOSED-40091,REP-100,Ava Morgenstern,SMB Tech,320000,Lost,56,2025-11-11,Unresponsive,Legal Tech
+CLOSED-40092,REP-107,Jordan Ellis,Mid-Market Tech,120000,Lost,117,2025-11-29,No decision,Insurance Tech
+CLOSED-40093,REP-104,Clara Voss,Mid-Market Tech,240000,Won,137,2025-12-11,,HealthTech
+CLOSED-40094,REP-104,Clara Voss,Mid-Market Tech,240000,Lost,60,2025-11-14,Budget,PropTech
+CLOSED-40095,REP-102,Priya Raman,PE-Backed,75000,Lost,67,2026-02-08,Budget,PropTech
+CLOSED-40096,REP-101,Theo Blackwood,PE-Backed,120000,Lost,107,2025-09-14,Timing,PropTech
+CLOSED-40097,REP-100,Ava Morgenstern,SMB Tech,75000,Lost,49,2025-09-19,Unresponsive,Legal Tech
+CLOSED-40098,REP-104,Clara Voss,Mid-Market Tech,240000,Lost,80,2026-02-07,Internal resource,Legal Tech
+CLOSED-40099,REP-105,Dmitri Lazarev,PE-Backed,240000,Won,75,2026-01-07,,HealthTech
+CLOSED-40100,REP-104,Clara Voss,Mid-Market Tech,320000,Lost,85,2026-03-17,Went with competitor,FinTech
+CLOSED-40101,REP-104,Clara Voss,Mid-Market Tech,320000,Won,93,2025-08-16,,Logistics
+CLOSED-40102,REP-105,Dmitri Lazarev,PE-Backed,320000,Lost,62,2026-01-21,Budget,HR Tech
+CLOSED-40103,REP-103,Samuel Okafor,Mid-Market Tech,240000,Lost,126,2025-08-19,Budget,Dev Tools
+CLOSED-40104,REP-103,Samuel Okafor,Mid-Market Tech,240000,Won,89,2025-08-22,,E-commerce Platform
+CLOSED-40105,REP-106,Naomi Fielding,SMB Tech,120000,Lost,119,2026-02-19,Unresponsive,EdTech
+CLOSED-40106,REP-105,Dmitri Lazarev,PE-Backed,400000,Lost,103,2025-12-22,Lost to in-house team,Logistics
+CLOSED-40107,REP-101,Theo Blackwood,PE-Backed,320000,Lost,53,2026-01-19,Lost to in-house team,MarTech
+CLOSED-40108,REP-100,Ava Morgenstern,SMB Tech,320000,Lost,113,2025-10-03,Internal resource,FinTech
+CLOSED-40109,REP-106,Naomi Fielding,SMB Tech,240000,Won,112,2026-01-24,,Dev Tools
+CLOSED-40110,REP-107,Jordan Ellis,Mid-Market Tech,120000,Lost,110,2026-02-21,No decision,Insurance Tech
+CLOSED-40111,REP-104,Clara Voss,Mid-Market Tech,320000,Won,81,2025-09-10,,FinTech
+CLOSED-40112,REP-107,Jordan Ellis,Mid-Market Tech,240000,Lost,59,2025-12-22,No decision,E-commerce Platform
+CLOSED-40113,REP-100,Ava Morgenstern,SMB Tech,75000,Won,51,2025-10-27,,EdTech
+CLOSED-40114,REP-107,Jordan Ellis,Mid-Market Tech,320000,Lost,132,2026-03-29,Lost to in-house team,Insurance Tech
+CLOSED-40115,REP-105,Dmitri Lazarev,PE-Backed,400000,Lost,121,2025-09-03,Timing,EdTech
+CLOSED-40116,REP-100,Ava Morgenstern,SMB Tech,400000,Won,93,2026-03-03,,FinTech
+CLOSED-40117,REP-102,Priya Raman,PE-Backed,180000,Won,116,2026-03-24,,E-commerce Platform
+CLOSED-40118,REP-100,Ava Morgenstern,SMB Tech,180000,Lost,128,2025-09-21,No decision,HealthTech
+CLOSED-40119,REP-104,Clara Voss,Mid-Market Tech,400000,Lost,69,2025-12-27,Lost to in-house team,HealthTech

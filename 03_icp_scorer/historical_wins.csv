@@ -1,0 +1,41 @@
+deal_id,company_name,industry,employee_count_at_signing,funding_stage_at_signing,deal_amount_usd,engagement_type,close_date,cycle_length_days,primary_champion_title,trigger_event
+WON-60000,Terrace Group,B2B SaaS,158,PE-Backed,140000,Campaign,2024-05-25,49,Head of Brand,Board pressure on positioning
+WON-60001,Terrace Analytics,FinTech,626,Series B,280000,Brand System,2024-05-25,71,VP Marketing,Board pressure on positioning
+WON-60002,Ember Cloud,Data & Analytics,165,Series B,350000,Brand System,2024-06-23,99,Head of Brand,M&A integration
+WON-60003,Foxglove Systems,B2B SaaS,451,Series D+,280000,Website + Brand,2024-12-21,106,CEO,Product expansion
+WON-60004,Indigo Analytics,HealthTech,451,Series C,210000,Full Rebrand,2024-07-24,78,Head of Brand,New CMO in seat
+WON-60005,Vantage Group,HealthTech,313,Series C,210000,Campaign,2026-01-28,119,Founder,Recent Series B close
+WON-60006,Lattice Platforms,B2B SaaS,68,Series C,350000,Website + Brand,2024-05-10,87,CMO,Product expansion
+WON-60007,Redshore Analytics,Data & Analytics,216,Series D+,420000,Website + Brand,2025-09-21,46,VP Marketing,Recent Series B close
+WON-60008,Norton Health,PropTech,405,Series B,350000,Full Rebrand,2024-07-16,112,CMO,Product expansion
+WON-60009,Nimbus Analytics,FinTech,103,Series D+,140000,Full Rebrand,2024-11-26,107,VP Marketing,New CMO in seat
+WON-60010,Valence Analytics,FinTech,114,Series C,350000,Category Positioning,2025-04-22,47,CMO,Outgrew in-house team
+WON-60011,Garnet Group,PropTech,535,PE-Backed,350000,Brand System,2025-12-08,119,CMO,Outgrew in-house team
+WON-60012,Brightlane Digital,B2B SaaS,561,Series B,350000,Campaign,2026-01-08,122,Head of Brand,M&A integration
+WON-60013,Umbra Financial,HealthTech,416,Series D+,95000,Campaign,2024-06-17,59,Head of Brand,Recent Series B close
+WON-60014,Lattice Networks,PropTech,542,Series C,350000,Website + Brand,2025-06-06,59,Head of Brand,Outgrew in-house team
+WON-60015,Covalent Platforms,PropTech,494,Series D+,350000,Campaign,2024-05-14,65,Founder,M&A integration
+WON-60016,Nimbus Software,PropTech,292,Series C,420000,Campaign,2025-07-04,66,Head of Brand,Recent Series B close
+WON-60017,Kiln Health,B2B SaaS,255,Series B,350000,Full Rebrand,2025-03-15,97,CEO,Product expansion
+WON-60018,Foxglove Financial,HealthTech,124,Series C,210000,Brand System,2026-01-22,102,CEO,Board pressure on positioning
+WON-60019,Upland Logistics,FinTech,213,PE-Backed,280000,Category Positioning,2025-11-17,127,CEO,New CMO in seat
+WON-60020,Beacon Health,Data & Analytics,148,Series B,280000,Full Rebrand,2025-09-02,79,VP Marketing,Recent Series B close
+WON-60021,Garnet Software,FinTech,512,Series D+,420000,Brand System,2024-10-27,76,Founder,New CMO in seat
+WON-60022,Vantage Technologies,B2B SaaS,598,Series D+,140000,Website + Brand,2025-11-28,69,Head of Brand,Outgrew in-house team
+WON-60023,Juniper Software,B2B SaaS,507,Series C,280000,Full Rebrand,2025-12-08,58,Head of Brand,M&A integration
+WON-60024,Drift Financial,FinTech,85,PE-Backed,140000,Website + Brand,2024-10-28,113,CEO,Recent Series B close
+WON-60025,Beacon AI,B2B SaaS,347,Series D+,210000,Campaign,2025-04-06,102,VP Marketing,New CMO in seat
+WON-60026,Upland Labs,PropTech,584,Series D+,350000,Brand System,2024-12-25,96,VP Marketing,M&A integration
+WON-60027,Thornbury Software,B2B SaaS,74,Series D+,140000,Category Positioning,2025-07-28,50,CMO,Product expansion
+WON-60028,Opal Group,HealthTech,545,Series B,280000,Website + Brand,2024-11-26,46,Founder,Board pressure on positioning
+WON-60029,Parallax Financial,Data & Analytics,330,Series B,350000,Category Positioning,2026-01-05,130,VP Marketing,Product expansion
+WON-60030,Umbra Platforms,Data & Analytics,249,Series C,280000,Full Rebrand,2024-10-22,71,Head of Brand,Outgrew in-house team
+WON-60031,Drift,Dev Tools,528,Series C,280000,Brand System,2025-11-24,78,Founder,Recent Series B close
+WON-60032,Cinder Analytics,B2B SaaS,254,PE-Backed,140000,Brand System,2024-06-19,70,Founder,Outgrew in-house team
+WON-60033,Northwind AI,HealthTech,66,Series C,95000,Category Positioning,2025-06-22,80,Founder,New CMO in seat
+WON-60034,Upland Labs,PropTech,353,PE-Backed,280000,Website + Brand,2024-06-28,68,CEO,Recent Series B close
+WON-60035,Opal Software,PropTech,628,Series B,140000,Brand System,2024-10-14,128,VP Marketing,Outgrew in-house team
+WON-60036,Monarch Group,PropTech,631,Series B,350000,Full Rebrand,2025-02-05,89,VP Marketing,Outgrew in-house team
+WON-60037,Quest Systems,HealthTech,575,Series C,95000,Brand System,2025-11-14,70,CEO,M&A integration
+WON-60038,Vantage Platforms,B2B SaaS,304,Series C,350000,Website + Brand,2025-11-30,105,Founder,M&A integration
+WON-60039,Ember,FinTech,583,PE-Backed,210000,Category Positioning,2026-01-29,105,VP Marketing,M&A integration

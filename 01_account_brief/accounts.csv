@@ -1,0 +1,251 @@
+account_id,company_name,domain,industry,employee_count_band,estimated_arr_usd,hq_city,lifecycle_stage,hubspot_owner,first_touch_date,last_activity_date,lead_source
+ACC-1000,Thornbury Labs,thornburylabs.com,Data & Analytics,201-500,10000000,Austin,lead,Theo Blackwood,2025-03-03,2026-01-08,Event
+ACC-1001,Cinder Cloud,cindercloud.ai,B2B SaaS,11-50,5000000,Austin,lead,Ava Morgenstern,2025-05-01,2026-03-18,Partner
+ACC-1002,Upland Software,uplandsoftware.ai,PropTech,501-1000,100000000,Chicago,customer,Ava Morgenstern,2025-01-20,2025-12-30,Outbound - Email
+ACC-1003,Garnet Digital,garnetdigital.co,HealthTech,51-200,25000000,New York,lead,Theo Blackwood,2025-08-13,2025-12-25,Outbound - LinkedIn
+ACC-1004,Riverbend AI,riverbendai.com,Data & Analytics,501-1000,100000000,New York,evangelist,Naomi Fielding,2026-01-03,2026-02-01,Outbound - LinkedIn
+ACC-1005,Thornbury Cloud,thornburycloud.co,E-commerce Platform,51-200,250000000,New York,lead,Samuel Okafor,2025-01-13,2026-03-06,Inbound - Website
+ACC-1006,Quill Logistics,quilllogistics.com,MarTech,201-500,50000000,Boston,lead,Dmitri Lazarev,2025-10-28,2026-01-17,Outbound - LinkedIn
+ACC-1007,Upland Labs,uplandlabs.io,Legal Tech,51-200,10000000,Denver,marketing qualified lead,Samuel Okafor,2025-02-27,2026-03-02,Inbound - Website
+ACC-1008,Kestrel Health,kestrelhealth.co,MarTech,201-500,5000000,Austin,customer,Dmitri Lazarev,2025-10-27,2026-01-19,Referral
+ACC-1009,Ember Financial,emberfinancial.ai,HealthTech,201-500,10000000,Austin,opportunity,Clara Voss,2025-01-26,2026-01-28,Referral
+ACC-1010,Quest Platforms,questplatforms.co,PropTech,51-200,100000000,Denver,lead,Ava Morgenstern,2024-11-29,2026-03-29,Outbound - Email
+ACC-1011,Thornbury Systems,thornburysystems.ai,E-commerce Platform,11-50,50000000,Vancouver,sales qualified lead,Jordan Ellis,2025-05-18,2026-03-11,Event
+ACC-1012,Northwind Group,northwindgroup.com,Dev Tools,1001-5000,25000000,Boston,lead,Naomi Fielding,2025-11-24,2026-02-13,Inbound - Website
+ACC-1013,Silverleaf Analytics,silverleafanalytics.io,Legal Tech,11-50,250000000,Chicago,customer,Samuel Okafor,2025-11-26,2026-02-24,Outbound - Email
+ACC-1014,Norton Health,nortonhealth.com,E-commerce Platform,201-500,50000000,Toronto,lead,Dmitri Lazarev,2024-11-20,2025-12-27,Outbound - LinkedIn
+ACC-1015,Redshore,redshore.io,E-commerce Platform,11-50,5000000,Denver,customer,Priya Raman,2025-12-09,2026-01-18,Referral
+ACC-1016,Opal Systems,opalsystems.co,Legal Tech,1001-5000,50000000,Austin,customer,Samuel Okafor,2025-02-12,2026-03-04,Referral
+ACC-1017,Valence Group,valencegroup.co,HR Tech,1001-5000,50000000,New York,lead,Theo Blackwood,2025-08-23,2026-04-10,Event
+ACC-1018,Opal Technologies,opaltechnologies.io,B2B SaaS,11-50,250000000,Toronto,lead,Ava Morgenstern,2024-11-29,2026-03-01,Inbound - Website
+ACC-1019,Lattice Technologies,latticetechnologies.co,Dev Tools,501-1000,10000000,Atlanta,lead,Jordan Ellis,2025-10-11,2026-01-02,Referral
+ACC-1020,Flint Technologies,flinttechnologies.com,FinTech,501-1000,25000000,Vancouver,marketing qualified lead,Ava Morgenstern,2025-03-05,2026-01-19,Partner
+ACC-1021,Foxglove,foxglove.ai,Data & Analytics,201-500,5000000,Austin,lead,Jordan Ellis,2025-12-03,2026-02-17,Outbound - Email
+ACC-1022,Terrace Networks,terracenetworks.io,EdTech,11-50,50000000,Atlanta,lead,Ava Morgenstern,2025-12-27,2025-12-15,Outbound - Email
+ACC-1023,Monarch Platforms,monarchplatforms.ai,HR Tech,51-200,50000000,Toronto,lead,Ava Morgenstern,2025-07-28,2026-03-10,Referral
+ACC-1024,Umbra Platforms,umbraplatforms.ai,HealthTech,51-200,25000000,Austin,evangelist,Ava Morgenstern,2025-01-26,2026-03-03,Inbound - Website
+ACC-1025,Parallax Cloud,parallaxcloud.ai,Legal Tech,1001-5000,10000000,Toronto,evangelist,Theo Blackwood,2024-12-04,2026-03-20,Inbound - Website
+ACC-1026,Riverbend Labs,riverbendlabs.io,MarTech,11-50,100000000,Austin,sales qualified lead,Ava Morgenstern,2025-04-01,2026-04-02,Referral
+ACC-1027,Valence Cloud,valencecloud.co,Logistics,51-200,250000000,Boston,lead,Naomi Fielding,2025-12-07,2026-01-17,Partner
+ACC-1028,Verdant Networks,verdantnetworks.co,Insurance Tech,11-50,5000000,Denver,sales qualified lead,Theo Blackwood,2026-01-06,2026-02-03,Outbound - Email
+ACC-1029,Lattice AI,latticeai.io,Cybersecurity,11-50,10000000,Boston,marketing qualified lead,Jordan Ellis,2024-12-13,2026-02-02,Partner
+ACC-1030,Verdant Cloud,verdantcloud.com,Dev Tools,1001-5000,25000000,New York,customer,Priya Raman,2025-09-30,2026-03-29,Inbound - Website
+ACC-1031,Terrace AI,terraceai.io,Data & Analytics,201-500,10000000,Chicago,sales qualified lead,Clara Voss,2024-11-06,2025-12-17,Inbound - Website
+ACC-1032,Cinder Group,cindergroup.ai,EdTech,201-500,5000000,Toronto,marketing qualified lead,Priya Raman,2025-03-23,2026-03-10,Outbound - Email
+ACC-1033,Helix Analytics,helixanalytics.ai,Legal Tech,11-50,5000000,New York,customer,Priya Raman,2025-05-09,2026-04-08,Outbound - LinkedIn
+ACC-1034,Quest Analytics,questanalytics.io,MarTech,51-200,5000000,Chicago,marketing qualified lead,Ava Morgenstern,2024-11-09,2026-02-26,Outbound - Email
+ACC-1035,Redshore Group,redshoregroup.com,Cybersecurity,1001-5000,50000000,Seattle,opportunity,Samuel Okafor,2024-11-27,2026-03-23,Outbound - Email
+ACC-1036,Flint,flint.io,Data & Analytics,201-500,50000000,Austin,marketing qualified lead,Theo Blackwood,2025-08-01,2025-12-22,Inbound - Website
+ACC-1037,Juniper Technologies,junipertechnologies.io,EdTech,501-1000,25000000,Chicago,customer,Samuel Okafor,2025-10-21,2026-04-09,Partner
+ACC-1038,Oakline Platforms,oaklineplatforms.co,Logistics,11-50,25000000,Boston,opportunity,Naomi Fielding,2025-03-02,2025-12-26,Event
+ACC-1039,Axiom,axiom.com,Logistics,51-200,100000000,Chicago,lead,Naomi Fielding,2025-08-20,2026-01-09,Outbound - LinkedIn
+ACC-1040,Garnet Cloud,garnetcloud.com,MarTech,1001-5000,10000000,Chicago,lead,Naomi Fielding,2026-02-12,2026-02-05,Event
+ACC-1041,Valence Technologies,valencetechnologies.co,MarTech,11-50,250000000,Boston,sales qualified lead,Theo Blackwood,2025-02-09,2025-12-18,Outbound - LinkedIn
+ACC-1042,Valence Platforms,valenceplatforms.co,MarTech,201-500,100000000,San Francisco,lead,Naomi Fielding,2025-03-03,2026-01-07,Outbound - Email
+ACC-1043,Solstice Cloud,solsticecloud.co,MarTech,1001-5000,5000000,Chicago,marketing qualified lead,Naomi Fielding,2025-01-06,2026-01-28,Event
+ACC-1044,Upland Digital,uplanddigital.ai,HR Tech,501-1000,250000000,Austin,sales qualified lead,Priya Raman,2025-03-12,2026-04-02,Outbound - LinkedIn
+ACC-1045,Lattice Group,latticegroup.co,FinTech,51-200,250000000,Chicago,lead,Samuel Okafor,2025-11-29,2026-04-09,Inbound - Website
+ACC-1046,Redshore Networks,redshorenetworks.com,HR Tech,501-1000,250000000,Seattle,lead,Naomi Fielding,2025-06-04,2026-02-20,Outbound - Email
+ACC-1047,Luma Group,lumagroup.com,Insurance Tech,11-50,50000000,Austin,lead,Jordan Ellis,2026-01-18,2026-01-31,Outbound - Email
+ACC-1048,Harbor Networks,harbornetworks.io,Insurance Tech,501-1000,250000000,Atlanta,evangelist,Dmitri Lazarev,2025-01-22,2025-12-19,Referral
+ACC-1049,Solstice Logistics,solsticelogistics.ai,EdTech,1001-5000,50000000,San Francisco,opportunity,Jordan Ellis,2025-06-27,2026-03-10,Outbound - Email
+ACC-1050,Thornbury AI,thornburyai.ai,Dev Tools,51-200,25000000,Denver,lead,Clara Voss,2025-10-15,2026-03-09,Outbound - LinkedIn
+ACC-1051,Willowrun Financial,willowrunfinancial.com,HealthTech,51-200,10000000,Vancouver,opportunity,Samuel Okafor,2026-01-11,2026-02-18,Referral
+ACC-1052,Axiom Analytics,axiomanalytics.ai,MarTech,11-50,10000000,Vancouver,marketing qualified lead,Ava Morgenstern,2024-12-01,2025-12-21,Event
+ACC-1053,Drift Networks,driftnetworks.com,Cybersecurity,201-500,50000000,Vancouver,sales qualified lead,Samuel Okafor,2025-06-08,2026-03-15,Outbound - LinkedIn
+ACC-1054,Garnet Networks,garnetnetworks.com,MarTech,201-500,250000000,Vancouver,opportunity,Jordan Ellis,2024-10-30,2026-03-27,Event
+ACC-1055,Norton,norton.ai,E-commerce Platform,1001-5000,250000000,Toronto,lead,Naomi Fielding,2025-12-05,2025-12-23,Referral
+ACC-1056,Nimbus,nimbus.co,MarTech,201-500,10000000,Denver,marketing qualified lead,Naomi Fielding,2025-09-23,2026-01-06,Referral
+ACC-1057,Silverleaf Logistics,silverleaflogistics.com,HR Tech,11-50,250000000,Atlanta,lead,Dmitri Lazarev,2025-10-21,2026-01-19,Inbound - Website
+ACC-1058,Upland,upland.com,PropTech,51-200,5000000,Seattle,lead,Priya Raman,2025-06-15,2026-01-17,Inbound - Website
+ACC-1059,Plume Technologies,plumetechnologies.ai,Data & Analytics,201-500,25000000,San Francisco,sales qualified lead,Theo Blackwood,2025-01-10,2025-12-29,Outbound - Email
+ACC-1060,Verdant Labs,verdantlabs.com,Logistics,1001-5000,250000000,Vancouver,marketing qualified lead,Samuel Okafor,2026-01-05,2026-01-27,Partner
+ACC-1061,Thornbury Technologies,thornburytechnologies.com,Data & Analytics,201-500,250000000,Seattle,customer,Ava Morgenstern,2025-08-19,2026-02-03,Referral
+ACC-1062,Valence Digital,valencedigital.com,Legal Tech,201-500,5000000,Vancouver,customer,Theo Blackwood,2025-07-06,2026-02-25,Partner
+ACC-1063,Indigo Software,indigosoftware.io,MarTech,51-200,250000000,Atlanta,evangelist,Clara Voss,2025-04-03,2025-12-30,Event
+ACC-1064,Juniper Networks,junipernetworks.ai,EdTech,1001-5000,25000000,Boston,customer,Theo Blackwood,2025-09-23,2025-12-21,Referral
+ACC-1065,Redshore Health,redshorehealth.ai,E-commerce Platform,1001-5000,250000000,Vancouver,marketing qualified lead,Jordan Ellis,2024-12-04,2026-03-02,Outbound - Email
+ACC-1066,Kiln Technologies,kilntechnologies.co,Insurance Tech,201-500,25000000,Chicago,customer,Clara Voss,2025-05-04,2026-04-11,Event
+ACC-1067,Oakline Labs,oaklinelabs.io,Data & Analytics,501-1000,50000000,Atlanta,opportunity,Jordan Ellis,2025-03-19,2026-01-11,Referral
+ACC-1068,Helix Health,helixhealth.com,FinTech,201-500,10000000,Vancouver,opportunity,Clara Voss,2025-03-10,2026-01-28,Outbound - LinkedIn
+ACC-1069,Juniper Analytics,juniperanalytics.co,MarTech,1001-5000,25000000,Boston,opportunity,Clara Voss,2025-09-09,2026-03-11,Outbound - Email
+ACC-1070,Harbor Software,harborsoftware.io,Cybersecurity,11-50,250000000,Atlanta,customer,Priya Raman,2025-11-06,2026-03-16,Partner
+ACC-1071,Juniper AI,juniperai.co,FinTech,51-200,25000000,Austin,marketing qualified lead,Clara Voss,2026-02-05,2026-01-12,Event
+ACC-1072,Ironwood AI,ironwoodai.com,B2B SaaS,1001-5000,25000000,San Francisco,opportunity,Jordan Ellis,2025-12-22,2025-12-22,Inbound - Website
+ACC-1073,Plume AI,plumeai.ai,HR Tech,501-1000,25000000,San Francisco,evangelist,Clara Voss,2024-11-28,2026-02-10,Inbound - Website
+ACC-1074,Vantage Platforms,vantageplatforms.ai,FinTech,1001-5000,250000000,Toronto,lead,Clara Voss,2025-12-31,2026-03-12,Inbound - Website
+ACC-1075,Opal Health,opalhealth.ai,E-commerce Platform,1001-5000,100000000,Austin,opportunity,Naomi Fielding,2025-06-27,2025-12-17,Referral
+ACC-1076,Verdant Logistics,verdantlogistics.ai,Logistics,1001-5000,100000000,Toronto,sales qualified lead,Theo Blackwood,2025-01-18,2026-03-17,Partner
+ACC-1077,Pioneer AI,pioneerai.com,HealthTech,51-200,10000000,Atlanta,lead,Ava Morgenstern,2025-07-18,2026-02-14,Partner
+ACC-1078,Riverbend Networks,riverbendnetworks.co,B2B SaaS,51-200,25000000,Chicago,opportunity,Jordan Ellis,2026-01-07,2026-01-15,Outbound - Email
+ACC-1079,Silverleaf Health,silverleafhealth.io,MarTech,11-50,100000000,Austin,opportunity,Clara Voss,2024-12-16,2026-03-25,Inbound - Website
+ACC-1080,Parallax Systems,parallaxsystems.co,E-commerce Platform,1001-5000,25000000,Denver,lead,Clara Voss,2025-02-19,2026-02-20,Outbound - LinkedIn
+ACC-1081,Lattice Analytics,latticeanalytics.ai,HR Tech,11-50,100000000,Toronto,customer,Dmitri Lazarev,2025-04-09,2026-03-11,Inbound - Website
+ACC-1082,Cinder Technologies,cindertechnologies.com,Insurance Tech,201-500,100000000,Toronto,opportunity,Priya Raman,2025-06-17,2026-02-05,Partner
+ACC-1083,Helix Financial,helixfinancial.co,HealthTech,1001-5000,50000000,Denver,evangelist,Jordan Ellis,2025-08-18,2026-02-19,Outbound - LinkedIn
+ACC-1084,Willowrun Group,willowrungroup.com,EdTech,51-200,25000000,Vancouver,opportunity,Clara Voss,2025-03-10,2026-02-20,Event
+ACC-1085,Kestrel Networks,kestrelnetworks.com,Cybersecurity,201-500,25000000,New York,evangelist,Naomi Fielding,2024-11-27,2026-02-06,Inbound - Website
+ACC-1086,Valence Logistics,valencelogistics.ai,MarTech,11-50,10000000,Atlanta,marketing qualified lead,Jordan Ellis,2025-03-29,2026-02-15,Inbound - Website
+ACC-1087,Umbra Networks,umbranetworks.ai,FinTech,11-50,250000000,Seattle,customer,Priya Raman,2025-09-06,2026-02-01,Inbound - Website
+ACC-1088,Opal Platforms,opalplatforms.com,PropTech,11-50,50000000,New York,opportunity,Priya Raman,2025-06-02,2025-12-14,Partner
+ACC-1089,Umbra Analytics,umbraanalytics.co,MarTech,501-1000,50000000,Austin,sales qualified lead,Priya Raman,2025-07-31,2026-03-19,Event
+ACC-1090,Lattice Software,latticesoftware.io,EdTech,11-50,25000000,Vancouver,marketing qualified lead,Clara Voss,2024-12-19,2026-04-12,Outbound - LinkedIn
+ACC-1091,Quest Cloud,questcloud.ai,EdTech,51-200,50000000,Atlanta,sales qualified lead,Dmitri Lazarev,2025-05-06,2026-01-05,Event
+ACC-1092,Willowrun Logistics,willowrunlogistics.io,Data & Analytics,51-200,100000000,Vancouver,lead,Naomi Fielding,2026-01-21,2026-03-03,Partner
+ACC-1093,Juniper Software,junipersoftware.ai,MarTech,51-200,50000000,Toronto,lead,Dmitri Lazarev,2024-11-24,2026-03-31,Referral
+ACC-1094,Foxglove Analytics,foxgloveanalytics.ai,B2B SaaS,51-200,50000000,San Francisco,lead,Clara Voss,2025-08-23,2026-01-23,Partner
+ACC-1095,Ember Group,embergroup.com,EdTech,201-500,250000000,Atlanta,marketing qualified lead,Dmitri Lazarev,2025-03-29,2026-01-11,Referral
+ACC-1096,Solstice Labs,solsticelabs.io,Dev Tools,201-500,10000000,New York,marketing qualified lead,Theo Blackwood,2025-01-19,2026-01-21,Partner
+ACC-1097,Foxglove Networks,foxglovenetworks.io,Data & Analytics,201-500,5000000,Toronto,marketing qualified lead,Ava Morgenstern,2025-09-15,2026-02-26,Outbound - LinkedIn
+ACC-1098,Garnet Systems,garnetsystems.io,Legal Tech,501-1000,100000000,San Francisco,lead,Theo Blackwood,2025-04-06,2025-12-22,Referral
+ACC-1099,Solstice Group,solsticegroup.io,HR Tech,1001-5000,10000000,Austin,sales qualified lead,Clara Voss,2025-06-22,2026-03-11,Partner
+ACC-1100,Northwind Financial,northwindfinancial.ai,Logistics,1001-5000,10000000,New York,marketing qualified lead,Dmitri Lazarev,2025-04-18,2026-03-05,Partner
+ACC-1101,Garnet Software,garnetsoftware.co,HR Tech,201-500,10000000,Vancouver,customer,Theo Blackwood,2025-10-14,2026-02-23,Event
+ACC-1102,Beacon Cloud,beaconcloud.co,Data & Analytics,201-500,5000000,Vancouver,marketing qualified lead,Ava Morgenstern,2024-11-03,2026-01-25,Partner
+ACC-1103,Kiln Logistics,kilnlogistics.co,Insurance Tech,51-200,100000000,Boston,lead,Samuel Okafor,2025-04-01,2026-03-11,Partner
+ACC-1104,Ironwood Group,ironwoodgroup.com,Dev Tools,11-50,25000000,Denver,lead,Dmitri Lazarev,2025-02-03,2026-03-27,Inbound - Website
+ACC-1105,Umbra Digital,umbradigital.ai,HealthTech,51-200,10000000,Atlanta,customer,Dmitri Lazarev,2025-05-17,2026-02-07,Outbound - LinkedIn
+ACC-1106,Monarch AI,monarchai.ai,Insurance Tech,201-500,250000000,Boston,customer,Jordan Ellis,2026-01-05,2026-03-25,Outbound - Email
+ACC-1107,Ember Logistics,emberlogistics.co,FinTech,501-1000,5000000,Chicago,sales qualified lead,Jordan Ellis,2025-08-08,2026-01-16,Partner
+ACC-1108,Silverleaf Cloud,silverleafcloud.ai,EdTech,201-500,5000000,Austin,sales qualified lead,Dmitri Lazarev,2024-11-01,2026-01-24,Outbound - Email
+ACC-1109,Thornbury Logistics,thornburylogistics.ai,Data & Analytics,201-500,250000000,Vancouver,lead,Ava Morgenstern,2026-01-24,2026-03-05,Referral
+ACC-1110,Harbor Labs,harborlabs.io,Legal Tech,51-200,50000000,Denver,marketing qualified lead,Naomi Fielding,2025-04-18,2026-01-07,Partner
+ACC-1111,Luma Financial,lumafinancial.ai,Dev Tools,11-50,50000000,Seattle,marketing qualified lead,Clara Voss,2026-01-27,2026-01-14,Outbound - LinkedIn
+ACC-1112,Pioneer Networks,pioneernetworks.ai,PropTech,201-500,5000000,Boston,sales qualified lead,Dmitri Lazarev,2026-01-12,2026-02-21,Outbound - LinkedIn
+ACC-1113,Indigo Labs,indigolabs.io,Dev Tools,1001-5000,5000000,Toronto,customer,Samuel Okafor,2025-12-10,2026-01-02,Event
+ACC-1114,Pioneer Labs,pioneerlabs.io,E-commerce Platform,51-200,10000000,Boston,opportunity,Ava Morgenstern,2025-09-24,2025-12-24,Outbound - Email
+ACC-1115,Ironwood Analytics,ironwoodanalytics.co,Insurance Tech,51-200,5000000,Toronto,lead,Dmitri Lazarev,2025-01-04,2026-01-02,Outbound - Email
+ACC-1116,Quest Digital,questdigital.com,HealthTech,201-500,5000000,San Francisco,opportunity,Theo Blackwood,2025-01-27,2026-04-04,Referral
+ACC-1117,Covalent Analytics,covalentanalytics.com,HR Tech,1001-5000,10000000,Seattle,lead,Clara Voss,2025-06-23,2026-01-20,Inbound - Website
+ACC-1118,Parallax Networks,parallaxnetworks.ai,MarTech,11-50,50000000,Denver,lead,Theo Blackwood,2025-09-01,2026-01-25,Outbound - Email
+ACC-1119,Vantage Systems,vantagesystems.co,E-commerce Platform,1001-5000,100000000,Boston,marketing qualified lead,Clara Voss,2025-06-25,2026-02-07,Event
+ACC-1120,Garnet Labs,garnetlabs.com,EdTech,1001-5000,250000000,Austin,marketing qualified lead,Samuel Okafor,2025-07-16,2026-02-28,Referral
+ACC-1121,Ember Platforms,emberplatforms.com,Cybersecurity,501-1000,25000000,Chicago,marketing qualified lead,Priya Raman,2025-02-26,2025-12-15,Referral
+ACC-1122,Vantage Labs,vantagelabs.com,FinTech,501-1000,5000000,Boston,customer,Ava Morgenstern,2025-04-18,2026-01-31,Event
+ACC-1123,Axiom Group,axiomgroup.com,MarTech,201-500,250000000,Vancouver,customer,Ava Morgenstern,2025-09-18,2026-01-26,Outbound - LinkedIn
+ACC-1124,Beacon Labs,beaconlabs.io,HealthTech,501-1000,10000000,New York,marketing qualified lead,Dmitri Lazarev,2025-12-16,2026-01-05,Outbound - LinkedIn
+ACC-1125,Garnet Logistics,garnetlogistics.com,E-commerce Platform,201-500,5000000,San Francisco,marketing qualified lead,Clara Voss,2024-10-29,2026-02-28,Outbound - LinkedIn
+ACC-1126,Northwind Systems,northwindsystems.io,E-commerce Platform,501-1000,5000000,San Francisco,opportunity,Ava Morgenstern,2025-12-28,2026-01-07,Event
+ACC-1127,Pioneer Platforms,pioneerplatforms.ai,HR Tech,201-500,10000000,Boston,marketing qualified lead,Dmitri Lazarev,2025-01-11,2026-01-30,Event
+ACC-1128,Cinder Financial,cinderfinancial.com,HealthTech,51-200,100000000,Toronto,opportunity,Clara Voss,2025-07-01,2026-01-18,Referral
+ACC-1129,Kiln Cloud,kilncloud.ai,MarTech,201-500,10000000,Atlanta,lead,Naomi Fielding,2025-12-18,2026-03-07,Partner
+ACC-1130,Quest Networks,questnetworks.co,B2B SaaS,51-200,50000000,Seattle,lead,Samuel Okafor,2025-09-11,2026-03-16,Outbound - Email
+ACC-1131,Silverleaf AI,silverleafai.co,FinTech,11-50,50000000,Vancouver,lead,Naomi Fielding,2025-05-16,2026-01-12,Outbound - Email
+ACC-1132,Valence Health,valencehealth.co,FinTech,501-1000,250000000,Toronto,marketing qualified lead,Jordan Ellis,2024-10-29,2026-04-03,Outbound - LinkedIn
+ACC-1133,Plume Platforms,plumeplatforms.ai,Data & Analytics,501-1000,25000000,New York,marketing qualified lead,Dmitri Lazarev,2025-11-17,2025-12-31,Event
+ACC-1134,Indigo Logistics,indigologistics.co,FinTech,501-1000,5000000,Austin,marketing qualified lead,Naomi Fielding,2025-05-20,2026-04-02,Referral
+ACC-1135,Verdant Software,verdantsoftware.co,PropTech,201-500,10000000,New York,sales qualified lead,Theo Blackwood,2025-05-17,2026-02-06,Outbound - Email
+ACC-1136,Beacon Digital,beacondigital.io,PropTech,11-50,10000000,Chicago,lead,Priya Raman,2025-01-19,2026-01-05,Partner
+ACC-1137,Thornbury Networks,thornburynetworks.ai,Insurance Tech,1001-5000,100000000,Denver,opportunity,Dmitri Lazarev,2024-11-27,2026-01-22,Outbound - LinkedIn
+ACC-1138,Luma Networks,lumanetworks.com,HR Tech,501-1000,250000000,Chicago,customer,Ava Morgenstern,2025-08-16,2026-02-07,Inbound - Website
+ACC-1139,Helix,helix.com,Cybersecurity,201-500,5000000,New York,sales qualified lead,Naomi Fielding,2025-06-21,2026-01-28,Event
+ACC-1140,Plume Group,plumegroup.io,Cybersecurity,1001-5000,50000000,Atlanta,lead,Ava Morgenstern,2025-06-27,2026-03-30,Outbound - LinkedIn
+ACC-1141,Cinder Analytics,cinderanalytics.io,B2B SaaS,51-200,250000000,Denver,evangelist,Priya Raman,2025-08-10,2026-02-24,Outbound - LinkedIn
+ACC-1142,Drift Platforms,driftplatforms.co,Dev Tools,1001-5000,5000000,Boston,lead,Theo Blackwood,2025-05-03,2026-01-16,Referral
+ACC-1143,Umbra AI,umbraai.io,Cybersecurity,11-50,100000000,San Francisco,customer,Clara Voss,2025-03-14,2026-01-13,Partner
+ACC-1144,Ember Systems,embersystems.com,Logistics,1001-5000,50000000,Boston,customer,Theo Blackwood,2025-03-19,2026-01-17,Referral
+ACC-1145,Lattice Digital,latticedigital.com,Cybersecurity,201-500,10000000,Austin,marketing qualified lead,Jordan Ellis,2025-11-06,2026-03-15,Outbound - Email
+ACC-1146,Luma Labs,lumalabs.co,EdTech,11-50,100000000,Atlanta,customer,Ava Morgenstern,2025-03-11,2026-02-28,Event
+ACC-1147,Ironwood Cloud,ironwoodcloud.ai,HealthTech,51-200,10000000,Seattle,customer,Priya Raman,2025-02-08,2026-02-15,Inbound - Website
+ACC-1148,Flint Digital,flintdigital.io,HR Tech,1001-5000,25000000,Denver,lead,Samuel Okafor,2025-09-07,2025-12-30,Referral
+ACC-1149,Oakline Digital,oaklinedigital.ai,HR Tech,201-500,50000000,Atlanta,sales qualified lead,Priya Raman,2024-12-21,2026-03-18,Event
+ACC-1150,Ironwood Logistics,ironwoodlogistics.co,B2B SaaS,501-1000,25000000,Atlanta,customer,Theo Blackwood,2025-09-20,2026-04-02,Outbound - Email
+ACC-1151,Lattice Systems,latticesystems.ai,FinTech,51-200,50000000,Boston,customer,Naomi Fielding,2026-01-16,2026-02-21,Event
+ACC-1152,Covalent Technologies,covalenttechnologies.ai,FinTech,201-500,10000000,Toronto,marketing qualified lead,Theo Blackwood,2024-12-10,2026-01-11,Partner
+ACC-1153,Axiom Health,axiomhealth.io,HealthTech,11-50,25000000,Denver,opportunity,Priya Raman,2025-01-20,2026-01-12,Referral
+ACC-1154,Helix Cloud,helixcloud.com,FinTech,11-50,25000000,Austin,customer,Naomi Fielding,2025-12-18,2026-01-03,Outbound - LinkedIn
+ACC-1155,Redshore AI,redshoreai.com,B2B SaaS,51-200,50000000,Seattle,sales qualified lead,Theo Blackwood,2024-12-11,2025-12-18,Referral
+ACC-1156,Riverbend Analytics,riverbendanalytics.com,Dev Tools,1001-5000,100000000,Austin,opportunity,Clara Voss,2025-07-08,2026-04-12,Event
+ACC-1157,Beacon Technologies,beacontechnologies.ai,HealthTech,11-50,100000000,Boston,lead,Ava Morgenstern,2025-07-28,2025-12-22,Referral
+ACC-1158,Kestrel Group,kestrelgroup.ai,Cybersecurity,201-500,250000000,Toronto,marketing qualified lead,Theo Blackwood,2025-08-20,2026-03-13,Partner
+ACC-1159,Foxglove Health,foxglovehealth.co,HealthTech,11-50,25000000,Atlanta,marketing qualified lead,Priya Raman,2024-12-14,2026-01-03,Partner
+ACC-1160,Juniper Group,junipergroup.io,Insurance Tech,51-200,5000000,Denver,lead,Samuel Okafor,2026-01-21,2026-01-01,Outbound - Email
+ACC-1161,Kestrel Digital,kestreldigital.co,Legal Tech,501-1000,100000000,Denver,marketing qualified lead,Samuel Okafor,2025-09-19,2026-02-26,Inbound - Website
+ACC-1162,Terrace Labs,terracelabs.co,MarTech,501-1000,250000000,Denver,customer,Naomi Fielding,2025-08-23,2026-03-20,Referral
+ACC-1163,Kiln Digital,kilndigital.co,Insurance Tech,11-50,250000000,Vancouver,lead,Priya Raman,2025-05-09,2026-03-06,Outbound - LinkedIn
+ACC-1164,Foxglove Labs,foxglovelabs.co,Dev Tools,201-500,25000000,Denver,sales qualified lead,Naomi Fielding,2025-11-19,2026-01-14,Referral
+ACC-1165,Beacon Networks,beaconnetworks.com,Data & Analytics,201-500,100000000,Vancouver,marketing qualified lead,Ava Morgenstern,2026-01-05,2026-01-17,Partner
+ACC-1166,Ember Digital,emberdigital.io,B2B SaaS,51-200,100000000,Denver,lead,Theo Blackwood,2025-10-15,2026-01-03,Partner
+ACC-1167,Covalent Digital,covalentdigital.ai,E-commerce Platform,11-50,100000000,San Francisco,opportunity,Dmitri Lazarev,2025-08-06,2026-02-15,Inbound - Website
+ACC-1168,Plume Systems,plumesystems.co,MarTech,201-500,250000000,Chicago,lead,Theo Blackwood,2026-01-30,2026-01-08,Outbound - Email
+ACC-1169,Kiln Analytics,kilnanalytics.ai,Legal Tech,11-50,25000000,Chicago,opportunity,Samuel Okafor,2025-04-05,2026-03-07,Partner
+ACC-1170,Harbor Systems,harborsystems.com,HR Tech,51-200,250000000,Denver,evangelist,Dmitri Lazarev,2025-03-08,2026-02-27,Partner
+ACC-1171,Vantage Analytics,vantageanalytics.co,Logistics,51-200,250000000,San Francisco,customer,Samuel Okafor,2025-12-12,2026-03-18,Outbound - Email
+ACC-1172,Kiln,kiln.co,Legal Tech,1001-5000,25000000,Denver,customer,Priya Raman,2025-04-05,2025-12-20,Inbound - Website
+ACC-1173,Vantage AI,vantageai.ai,Data & Analytics,501-1000,100000000,Vancouver,opportunity,Theo Blackwood,2025-12-10,2026-03-03,Partner
+ACC-1174,Vantage Networks,vantagenetworks.ai,Dev Tools,1001-5000,25000000,San Francisco,customer,Priya Raman,2025-01-15,2026-03-27,Referral
+ACC-1175,Lattice Financial,latticefinancial.com,EdTech,11-50,100000000,San Francisco,marketing qualified lead,Priya Raman,2025-08-31,2025-12-14,Partner
+ACC-1176,Quill Digital,quilldigital.co,EdTech,11-50,25000000,Austin,opportunity,Clara Voss,2025-12-10,2026-01-22,Outbound - LinkedIn
+ACC-1177,Solstice Analytics,solsticeanalytics.com,Legal Tech,51-200,100000000,Seattle,lead,Dmitri Lazarev,2024-12-08,2025-12-15,Event
+ACC-1178,Kestrel Logistics,kestrellogistics.com,FinTech,11-50,250000000,Seattle,marketing qualified lead,Samuel Okafor,2025-01-16,2026-01-29,Referral
+ACC-1179,Brightlane Networks,brightlanenetworks.co,Dev Tools,201-500,50000000,Austin,customer,Naomi Fielding,2025-09-13,2026-02-13,Inbound - Website
+ACC-1180,Helix Platforms,helixplatforms.ai,HR Tech,51-200,25000000,Seattle,lead,Dmitri Lazarev,2025-02-02,2025-12-23,Outbound - LinkedIn
+ACC-1181,Opal Labs,opallabs.co,PropTech,501-1000,5000000,Chicago,marketing qualified lead,Priya Raman,2025-12-25,2026-04-06,Outbound - LinkedIn
+ACC-1182,Drift Logistics,driftlogistics.ai,PropTech,51-200,25000000,Seattle,opportunity,Samuel Okafor,2025-01-18,2026-03-23,Referral
+ACC-1183,Lattice Networks,latticenetworks.ai,Logistics,501-1000,5000000,New York,customer,Jordan Ellis,2025-10-12,2026-03-16,Event
+ACC-1184,Beacon,beacon.com,Logistics,501-1000,100000000,Denver,marketing qualified lead,Ava Morgenstern,2024-12-06,2026-03-30,Referral
+ACC-1185,Ironwood Financial,ironwoodfinancial.co,Data & Analytics,201-500,50000000,Boston,lead,Ava Morgenstern,2025-04-27,2026-01-31,Outbound - Email
+ACC-1186,Umbra Labs,umbralabs.ai,Legal Tech,501-1000,100000000,Chicago,customer,Theo Blackwood,2025-12-09,2026-03-31,Referral
+ACC-1187,Covalent Health,covalenthealth.co,Legal Tech,201-500,10000000,Austin,sales qualified lead,Naomi Fielding,2025-06-01,2026-04-07,Inbound - Website
+ACC-1188,Kestrel Systems,kestrelsystems.co,Insurance Tech,501-1000,100000000,Denver,lead,Priya Raman,2025-08-29,2025-12-14,Event
+ACC-1189,Willowrun Systems,willowrunsystems.ai,E-commerce Platform,201-500,100000000,Boston,sales qualified lead,Jordan Ellis,2025-02-15,2026-01-30,Outbound - LinkedIn
+ACC-1190,Juniper Logistics,juniperlogistics.com,Cybersecurity,201-500,250000000,New York,evangelist,Clara Voss,2025-01-01,2025-12-18,Partner
+ACC-1191,Thornbury,thornbury.ai,Logistics,1001-5000,100000000,Austin,opportunity,Jordan Ellis,2025-11-17,2026-02-04,Partner
+ACC-1192,Solstice Health,solsticehealth.ai,HealthTech,51-200,5000000,Seattle,customer,Theo Blackwood,2025-11-07,2026-04-10,Referral
+ACC-1193,Willowrun Platforms,willowrunplatforms.io,MarTech,51-200,50000000,Atlanta,opportunity,Jordan Ellis,2024-11-23,2025-12-25,Partner
+ACC-1194,Parallax Software,parallaxsoftware.io,Legal Tech,51-200,100000000,Boston,evangelist,Jordan Ellis,2025-05-19,2026-02-23,Outbound - LinkedIn
+ACC-1195,Nimbus Networks,nimbusnetworks.co,Legal Tech,201-500,250000000,Chicago,sales qualified lead,Samuel Okafor,2025-10-09,2026-03-08,Event
+ACC-1196,Verdant Technologies,verdanttechnologies.co,Insurance Tech,201-500,250000000,Austin,opportunity,Jordan Ellis,2025-09-03,2026-02-10,Outbound - LinkedIn
+ACC-1197,Opal Financial,opalfinancial.co,Logistics,11-50,100000000,Atlanta,marketing qualified lead,Naomi Fielding,2024-12-20,2026-02-27,Outbound - Email
+ACC-1198,Umbra,umbra.co,Data & Analytics,11-50,25000000,Denver,opportunity,Jordan Ellis,2025-10-26,2026-03-18,Event
+ACC-1199,Terrace Financial,terracefinancial.co,HealthTech,11-50,100000000,Seattle,lead,Ava Morgenstern,2025-03-07,2025-12-18,Event
+ACC-1200,Quill Group,quillgroup.io,B2B SaaS,11-50,50000000,Boston,opportunity,Theo Blackwood,2025-03-01,2026-01-04,Outbound - Email
+ACC-1201,Northwind Analytics,northwindanalytics.io,MarTech,501-1000,50000000,Austin,opportunity,Clara Voss,2025-09-01,2026-03-07,Partner
+ACC-1202,Parallax Financial,parallaxfinancial.com,Dev Tools,1001-5000,10000000,Atlanta,opportunity,Ava Morgenstern,2024-11-02,2025-12-16,Outbound - Email
+ACC-1203,Flint Financial,flintfinancial.io,B2B SaaS,501-1000,50000000,San Francisco,customer,Clara Voss,2024-11-21,2026-04-08,Inbound - Website
+ACC-1204,Axiom AI,axiomai.ai,Dev Tools,1001-5000,100000000,Denver,customer,Priya Raman,2024-12-04,2026-02-07,Referral
+ACC-1205,Terrace Technologies,terracetechnologies.com,Cybersecurity,51-200,250000000,Denver,opportunity,Priya Raman,2026-02-05,2026-01-08,Outbound - LinkedIn
+ACC-1206,Umbra Cloud,umbracloud.io,HealthTech,1001-5000,250000000,Vancouver,customer,Dmitri Lazarev,2025-12-30,2026-02-20,Partner
+ACC-1207,Foxglove Systems,foxglovesystems.io,HR Tech,201-500,10000000,Toronto,marketing qualified lead,Samuel Okafor,2025-06-29,2026-01-06,Outbound - LinkedIn
+ACC-1208,Quest Software,questsoftware.com,Logistics,201-500,250000000,Austin,lead,Theo Blackwood,2025-06-19,2026-03-04,Outbound - Email
+ACC-1209,Harbor Group,harborgroup.co,Cybersecurity,1001-5000,10000000,Austin,customer,Jordan Ellis,2025-11-26,2026-02-13,Partner
+ACC-1210,Riverbend Digital,riverbenddigital.ai,Data & Analytics,1001-5000,50000000,Atlanta,customer,Samuel Okafor,2025-01-18,2026-03-12,Partner
+ACC-1211,Riverbend Logistics,riverbendlogistics.com,Legal Tech,501-1000,100000000,Boston,lead,Theo Blackwood,2026-01-12,2025-12-27,Event
+ACC-1212,Plume Analytics,plumeanalytics.io,HealthTech,201-500,100000000,Denver,lead,Samuel Okafor,2025-02-10,2026-01-28,Referral
+ACC-1213,Flint Networks,flintnetworks.com,Legal Tech,501-1000,250000000,Chicago,opportunity,Naomi Fielding,2025-10-05,2025-12-29,Inbound - Website
+ACC-1214,Pioneer Cloud,pioneercloud.com,B2B SaaS,501-1000,25000000,New York,sales qualified lead,Ava Morgenstern,2024-10-22,2025-12-19,Inbound - Website
+ACC-1215,Juniper,juniper.co,MarTech,51-200,10000000,Vancouver,marketing qualified lead,Naomi Fielding,2025-06-28,2025-12-22,Referral
+ACC-1216,Drift Labs,driftlabs.io,Dev Tools,201-500,5000000,San Francisco,evangelist,Naomi Fielding,2025-05-18,2026-03-27,Partner
+ACC-1217,Northwind Health,northwindhealth.com,Logistics,501-1000,250000000,Atlanta,marketing qualified lead,Naomi Fielding,2024-12-18,2026-03-14,Outbound - Email
+ACC-1218,Indigo Digital,indigodigital.io,Logistics,51-200,250000000,New York,lead,Naomi Fielding,2025-04-04,2026-01-04,Inbound - Website
+ACC-1219,Redshore Technologies,redshoretechnologies.com,FinTech,1001-5000,5000000,Denver,sales qualified lead,Ava Morgenstern,2025-10-10,2026-01-08,Inbound - Website
+ACC-1220,Ember Networks,embernetworks.io,Legal Tech,51-200,5000000,San Francisco,sales qualified lead,Clara Voss,2025-10-16,2025-12-29,Partner
+ACC-1221,Plume Digital,plumedigital.co,PropTech,201-500,10000000,Atlanta,lead,Clara Voss,2025-09-25,2026-04-05,Event
+ACC-1222,Quest Financial,questfinancial.io,Dev Tools,501-1000,100000000,Denver,lead,Dmitri Lazarev,2025-03-20,2026-01-17,Referral
+ACC-1223,Meridian Peak Digital,meridianpeakdigital.ai,MarTech,51-200,25000000,Vancouver,lead,Jordan Ellis,2025-10-12,2025-12-25,Outbound - Email
+ACC-1224,Luma Health,lumahealth.ai,B2B SaaS,1001-5000,50000000,Vancouver,sales qualified lead,Priya Raman,2025-07-29,2026-03-12,Outbound - LinkedIn
+ACC-1225,Pioneer Digital,pioneerdigital.com,HR Tech,201-500,5000000,Atlanta,opportunity,Samuel Okafor,2026-01-17,2026-03-09,Referral
+ACC-1226,Riverbend Cloud,riverbendcloud.com,EdTech,11-50,10000000,Seattle,opportunity,Samuel Okafor,2025-06-12,2026-03-17,Outbound - LinkedIn
+ACC-1227,Verdant Financial,verdantfinancial.com,PropTech,51-200,250000000,New York,opportunity,Jordan Ellis,2024-11-01,2026-03-12,Partner
+ACC-1228,Riverbend Software,riverbendsoftware.io,MarTech,51-200,100000000,Boston,opportunity,Naomi Fielding,2025-06-19,2026-02-03,Partner
+ACC-1229,Beacon AI,beaconai.co,Cybersecurity,1001-5000,50000000,Denver,lead,Jordan Ellis,2025-01-19,2025-12-26,Outbound - LinkedIn
+ACC-1230,Kestrel Cloud,kestrelcloud.io,Data & Analytics,51-200,5000000,Chicago,sales qualified lead,Naomi Fielding,2025-09-14,2026-03-24,Outbound - Email
+ACC-1231,Axiom Technologies,axiomtechnologies.ai,E-commerce Platform,51-200,50000000,Atlanta,opportunity,Dmitri Lazarev,2025-10-04,2026-01-05,Referral
+ACC-1232,Kiln Networks,kilnnetworks.io,Data & Analytics,201-500,10000000,San Francisco,opportunity,Jordan Ellis,2025-11-10,2025-12-16,Event
+ACC-1233,Meridian Peak,meridianpeak.com,EdTech,11-50,5000000,Vancouver,lead,Samuel Okafor,2026-01-09,2026-01-12,Outbound - Email
+ACC-1234,Northwind Technologies,northwindtechnologies.ai,Cybersecurity,11-50,100000000,Seattle,customer,Jordan Ellis,2026-02-04,2026-04-12,Event
+ACC-1235,Northwind,northwind.co,Legal Tech,201-500,5000000,Atlanta,customer,Naomi Fielding,2024-12-27,2025-12-17,Outbound - Email
+ACC-1236,Foxglove Financial,foxglovefinancial.com,Legal Tech,51-200,10000000,Austin,sales qualified lead,Clara Voss,2024-12-22,2026-02-26,Outbound - LinkedIn
+ACC-1237,Ember Labs,emberlabs.co,MarTech,501-1000,100000000,Austin,evangelist,Samuel Okafor,2025-09-12,2026-01-15,Inbound - Website
+ACC-1238,Upland Logistics,uplandlogistics.com,FinTech,501-1000,50000000,Vancouver,sales qualified lead,Ava Morgenstern,2025-03-23,2026-04-11,Partner
+ACC-1239,Monarch Labs,monarchlabs.ai,EdTech,501-1000,250000000,Boston,sales qualified lead,Theo Blackwood,2024-11-11,2026-02-04,Inbound - Website
+ACC-1240,Quill Technologies,quilltechnologies.ai,Logistics,11-50,5000000,Chicago,customer,Ava Morgenstern,2025-11-13,2025-12-15,Outbound - LinkedIn
+ACC-1241,Brightlane Technologies,brightlanetechnologies.io,Insurance Tech,501-1000,5000000,Chicago,lead,Samuel Okafor,2025-04-28,2025-12-27,Referral
+ACC-1242,Norton Digital,nortondigital.ai,Insurance Tech,51-200,250000000,New York,sales qualified lead,Dmitri Lazarev,2026-01-16,2026-03-31,Referral
+ACC-1243,Vantage Digital,vantagedigital.ai,Insurance Tech,201-500,5000000,Chicago,customer,Jordan Ellis,2025-06-06,2026-03-14,Outbound - LinkedIn
+ACC-1244,Quest Group,questgroup.ai,FinTech,1001-5000,25000000,Austin,opportunity,Theo Blackwood,2025-09-28,2026-03-24,Referral
+ACC-1245,Drift Digital,driftdigital.co,FinTech,11-50,5000000,Chicago,marketing qualified lead,Clara Voss,2025-12-22,2026-03-27,Inbound - Website
+ACC-1246,Nimbus Platforms,nimbusplatforms.ai,Legal Tech,1001-5000,100000000,Vancouver,lead,Theo Blackwood,2025-08-15,2026-02-01,Inbound - Website
+ACC-1247,Drift,drift.co,MarTech,501-1000,5000000,Atlanta,customer,Samuel Okafor,2025-04-26,2026-02-05,Outbound - Email
+ACC-1248,Drift Systems,driftsystems.io,Logistics,201-500,25000000,Denver,lead,Priya Raman,2025-07-05,2026-03-08,Referral
+ACC-1249,Silverleaf Technologies,silverleaftechnologies.ai,E-commerce Platform,1001-5000,10000000,Denver,lead,Clara Voss,2026-02-09,2026-02-21,Outbound - LinkedIn

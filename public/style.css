@@ -1,0 +1,337 @@
+/* ==========================================================================
+   Foundations — Account Brief Generator
+   Brand: brand/brand_spec.md
+   Font: Inter (Google Fonts) — PP Valve substitute
+   ========================================================================== */
+
+/* ---- Reset & base ---- */
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --ion-violet: #7C56FE;
+    --ignite: #FF582A;
+    --arctic-steel: #A2C1C4;
+    --ice-blue: #CFE7FF;
+    --azure: #B6BBFF;
+    --pulse: #57FF60;
+    --obsidian: #090D19;
+    --alloy: #EFEFEF;
+    --surface: #111827;
+    --surface-border: #1E293B;
+    --muted: #8896A7;
+    --font: 'Inter', 'IBM Plex Sans', Helvetica, Arial, sans-serif;
+}
+
+html {
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    font-family: var(--font);
+    background: var(--obsidian);
+    color: var(--alloy);
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+/* ---- Password gate ---- */
+.gate {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 2rem;
+}
+.gate-inner {
+    max-width: 380px;
+    width: 100%;
+    text-align: left;
+}
+.gate-inner img {
+    height: 48px;
+    margin-bottom: 2.5rem;
+}
+.gate-inner h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+.gate-inner p {
+    font-size: 0.9rem;
+    color: var(--muted);
+    margin-bottom: 1.5rem;
+}
+.gate-input-row {
+    display: flex;
+    gap: 0.75rem;
+}
+.gate-input-row input {
+    flex: 1;
+    background: var(--surface);
+    border: 1px solid var(--surface-border);
+    border-radius: 6px;
+    padding: 0.65rem 1rem;
+    font-family: var(--font);
+    font-size: 0.95rem;
+    color: var(--alloy);
+    outline: none;
+    transition: border-color 0.2s;
+}
+.gate-input-row input:focus {
+    border-color: var(--ion-violet);
+}
+.gate-input-row input::placeholder {
+    color: var(--muted);
+}
+.gate-error {
+    color: var(--ignite);
+    font-size: 0.8rem;
+    margin-top: 0.75rem;
+    min-height: 1.2em;
+}
+
+/* ---- Layout shell ---- */
+.app {
+    display: none;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 1.5rem;
+}
+.app.visible {
+    display: block;
+}
+
+/* ---- Header ---- */
+.header-logo {
+    height: 44px;
+    margin-bottom: 2rem;
+}
+.header h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.15;
+}
+.header .subtitle {
+    font-size: 1.05rem;
+    font-weight: 300;
+    color: var(--muted);
+    margin-top: 0.35rem;
+    margin-bottom: 2.25rem;
+}
+
+/* ---- Scenario filter buttons ---- */
+.scenario-label {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--muted);
+    margin-bottom: 0.5rem;
+}
+.scenario-row {
+    display: flex;
+    gap: 0.75rem;
+    margin-bottom: 1.25rem;
+    flex-wrap: wrap;
+}
+.scenario-btn {
+    background: transparent;
+    border: 1px solid var(--surface-border);
+    color: var(--alloy);
+    padding: 0.55rem 1.1rem;
+    border-radius: 6px;
+    font-family: var(--font);
+    font-size: 0.85rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: border-color 0.2s, color 0.2s, background 0.2s;
+    text-align: left;
+    line-height: 1.4;
+}
+.scenario-btn:hover {
+    border-color: var(--ion-violet);
+    color: var(--ion-violet);
+}
+.scenario-btn.active {
+    background: var(--ion-violet);
+    border-color: var(--ion-violet);
+    color: var(--alloy);
+}
+.scenario-btn .desc {
+    display: block;
+    font-size: 0.7rem;
+    font-weight: 300;
+    color: var(--muted);
+    margin-top: 2px;
+}
+.scenario-btn.active .desc,
+.scenario-btn:hover .desc {
+    color: inherit;
+    opacity: 0.8;
+}
+
+.filter-status {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-size: 0.8rem;
+    color: var(--arctic-steel);
+    margin-bottom: 0.75rem;
+    min-height: 1.4em;
+}
+.clear-filter {
+    background: none;
+    border: none;
+    color: var(--muted);
+    font-family: var(--font);
+    font-size: 0.75rem;
+    cursor: pointer;
+    text-decoration: underline;
+    padding: 0;
+}
+.clear-filter:hover {
+    color: var(--alloy);
+}
+
+/* ---- Account select ---- */
+.select-label {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--alloy);
+    margin-bottom: 0.4rem;
+}
+.account-select {
+    width: 100%;
+    background: var(--surface);
+    border: 1px solid var(--surface-border);
+    border-radius: 6px;
+    padding: 0.65rem 1rem;
+    font-family: var(--font);
+    font-size: 0.95rem;
+    color: var(--alloy);
+    outline: none;
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%238896A7' stroke-width='1.5' fill='none'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 1rem center;
+    cursor: pointer;
+    transition: border-color 0.2s;
+}
+.account-select:focus {
+    border-color: var(--ion-violet);
+}
+
+/* ---- Generate button ---- */
+.generate-row {
+    margin-top: 1.25rem;
+}
+.btn-generate {
+    background: var(--ion-violet);
+    color: var(--alloy);
+    border: none;
+    border-radius: 6px;
+    padding: 0.65rem 2.25rem;
+    font-family: var(--font);
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: opacity 0.2s;
+}
+.btn-generate:hover {
+    opacity: 0.85;
+}
+.btn-generate:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+/* ---- Loading state ---- */
+.loading-msg {
+    font-size: 0.95rem;
+    font-weight: 300;
+    color: var(--arctic-steel);
+    padding: 1rem 0;
+}
+
+/* ---- Metadata strip ---- */
+.meta-strip {
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: var(--arctic-steel);
+    padding: 0.6rem 0;
+    letter-spacing: 0.02em;
+}
+
+/* ---- Brief card ---- */
+.brief-card {
+    background: var(--surface);
+    border: 1px solid var(--surface-border);
+    border-radius: 10px;
+    padding: 2rem 2.25rem;
+    margin: 0.5rem 0 2.5rem 0;
+}
+.brief-card h1 {
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+    color: var(--alloy);
+}
+.brief-card h2 {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--ion-violet);
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    letter-spacing: 0.01em;
+}
+.brief-card p,
+.brief-card li {
+    font-size: 0.92rem;
+    color: var(--alloy);
+    line-height: 1.65;
+}
+.brief-card strong {
+    color: var(--alloy);
+    font-weight: 700;
+}
+.brief-card em {
+    color: var(--muted);
+}
+.brief-card hr {
+    border: none;
+    border-top: 1px solid var(--surface-border);
+    margin: 1.5rem 0;
+}
+.brief-card ul,
+.brief-card ol {
+    padding-left: 1.25rem;
+    margin: 0.5rem 0;
+}
+.brief-card li {
+    margin-bottom: 0.4rem;
+}
+
+/* ---- Footer ---- */
+.app-footer {
+    text-align: left;
+    padding: 2rem 0 1.5rem 0;
+    border-top: 1px solid var(--surface-border);
+    margin-top: 2rem;
+}
+.app-footer p {
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: var(--muted);
+}
+.app-footer a {
+    color: var(--ion-violet);
+    text-decoration: none;
+}
+.app-footer a:hover {
+    text-decoration: underline;
+}

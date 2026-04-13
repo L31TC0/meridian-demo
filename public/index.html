@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foundations — Account Brief Generator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="icon" href="/brand/foundations_logo_primary_reversed.png" type="image/png">
+    <script>
+        // Password injected from environment at build time.
+        // If empty, the gate is skipped entirely.
+        window.__DEMO_PASSWORD = "__DEMO_PASS__";
+    </script>
+</head>
+<body>
+
+<!-- ================================================================== -->
+<!-- Password gate                                                       -->
+<!-- ================================================================== -->
+<div id="gate" class="gate" style="display:none;">
+    <div class="gate-inner">
+        <img src="/brand/foundations_logo_primary_reversed.png" alt="Foundations">
+        <h1>Demo Access</h1>
+        <p>Enter the password to view this demo.</p>
+        <div class="gate-input-row">
+            <input type="password" id="gate-password" placeholder="Password" autocomplete="off">
+            <button class="btn-generate" id="gate-submit">Enter</button>
+        </div>
+        <p class="gate-error" id="gate-error"></p>
+    </div>
+</div>
+
+<!-- ================================================================== -->
+<!-- App                                                                 -->
+<!-- ================================================================== -->
+<div id="app" class="app">
+
+    <!-- Header -->
+    <div class="header">
+        <img src="/brand/foundations_logo_primary_reversed.png" alt="Foundations" class="header-logo">
+        <h1>Account Brief Generator</h1>
+        <p class="subtitle">Pre-meeting intelligence across your CRM, calls, and email — in seconds.</p>
+    </div>
+
+    <!-- Scenario filters -->
+    <p class="scenario-label">Filter by scenario</p>
+    <div class="scenario-row">
+        <button class="scenario-btn" data-scenario="upsell">
+            Upsell / Cross-Sell
+            <span class="desc">Existing customers with open expansion deals</span>
+        </button>
+        <button class="scenario-btn" data-scenario="active_deal">
+            Active Deal
+            <span class="desc">Accounts with deals currently in pipeline</span>
+        </button>
+        <button class="scenario-btn" data-scenario="complex">
+            Complex Pipeline
+            <span class="desc">2+ deals or high cross-file activity</span>
+        </button>
+    </div>
+
+    <!-- Filter status -->
+    <div class="filter-status">
+        <span id="filter-status"></span>
+        <button class="clear-filter" id="clear-filter" style="display:none;">Clear filter</button>
+    </div>
+
+    <!-- Account dropdown -->
+    <p class="select-label">Select an account</p>
+    <select class="account-select" id="account-select">
+        <option value="">Loading accounts…</option>
+    </select>
+
+    <!-- Generate -->
+    <div class="generate-row">
+        <button class="btn-generate" id="btn-generate">Generate Brief</button>
+    </div>
+
+    <!-- Output -->
+    <div id="output"></div>
+
+    <!-- Footer -->
+    <div class="app-footer">
+        <p>Built by Foundations &middot; GTM Engineering for B2B Tech &middot;
+            <a href="https://sellwithfoundations.com" target="_blank">sellwithfoundations.com</a>
+        </p>
+    </div>
+</div>
+
+<script src="/script.js"></script>
+</body>
+</html>

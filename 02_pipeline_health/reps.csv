@@ -1,0 +1,9 @@
+rep_id,rep_name,tenure_months,annual_quota_usd,segment,manager
+REP-100,Ava Morgenstern,5,1200000,SMB Tech,Rohan Mehta
+REP-101,Theo Blackwood,30,800000,PE-Backed,Rohan Mehta
+REP-102,Priya Raman,20,1200000,PE-Backed,Rohan Mehta
+REP-103,Samuel Okafor,26,1000000,Mid-Market Tech,Rohan Mehta
+REP-104,Clara Voss,7,1200000,Mid-Market Tech,Rohan Mehta
+REP-105,Dmitri Lazarev,14,1000000,PE-Backed,Rohan Mehta
+REP-106,Naomi Fielding,29,1200000,SMB Tech,Rohan Mehta
+REP-107,Jordan Ellis,9,1200000,Mid-Market Tech,Elena Carter
