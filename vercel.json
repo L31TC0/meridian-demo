@@ -1,11 +1,6 @@
 {
-  "functions": {
-    "api/generate.py": {
-      "includeFiles": "01_account_brief/**"
-    }
-  },
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "/api/$1" }
+    { "source": "/api/:path*", "destination": "/api" }
   ],
   "headers": [
     {

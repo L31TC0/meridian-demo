@@ -2,7 +2,13 @@
   "permissions": {
     "allow": [
       "Bash(python3:*)",
-      "Bash(brew install:*)"
+      "Bash(brew install:*)",
+      "Bash(git commit:*)",
+      "Bash(npx vercel:*)",
+      "Bash(curl -s https://meridian-lac-sigma.vercel.app/api/generate)",
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(curl -sv https://meridian-lac-sigma.vercel.app/api/generate)"
     ]
   }
 }

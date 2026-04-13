@@ -76,7 +76,7 @@ async function showApp() {
 
 async function loadAccounts() {
     try {
-        const res = await fetch("/api/generate");
+        const res = await fetch("/api/");
         const data = await res.json();
         allAccounts = data.accounts;
         scenarios = data.scenarios;
